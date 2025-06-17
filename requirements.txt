@@ -1,0 +1,12 @@
+google-generativeai
+faiss-cpu
+sentence-transformers
+torch
+clip-anytorch
+pillow
+pytesseract
+requests
+tqdm
+aiohttp
+python-dotenv
+streamlit

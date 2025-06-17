@@ -1,0 +1,3533 @@
+[
+  {
+    "id": "B01KTPNJYY",
+    "url": "https://www.amazon.in/dp/B01KTPNJYY",
+    "trust_score": 61,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, but no obvious pattern of fake reviews.",
+      "visual": "clip_risk=0.71 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B079LNPNN1",
+    "url": "https://www.amazon.in/dp/B079LNPNN1",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly genuine reviews; some negative experiences and a return request.",
+      "visual": "clip_risk=0.77 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B07BHZWR7B",
+    "url": "https://www.amazon.in/dp/B07BHZWR7B",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, with a few indicating potential issues.",
+      "visual": "clip_risk=0.76 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B07QHNYV1Z",
+    "url": "https://www.amazon.in/dp/B07QHNYV1Z",
+    "trust_score": 50,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative regarding size and comfort.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B07X95YDPZ",
+    "url": "https://www.amazon.in/dp/B07X95YDPZ",
+    "trust_score": 57,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, but no obvious pattern of fake reviews.",
+      "visual": "clip_risk=0.81 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B085WXZKVF",
+    "url": "https://www.amazon.in/dp/B085WXZKVF",
+    "trust_score": 56,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, and some appear suspicious.",
+      "visual": "clip_risk=0.73 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B085WY2Z9N",
+    "url": "https://www.amazon.in/dp/B085WY2Z9N",
+    "trust_score": 56,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, and some appear suspicious.",
+      "visual": "clip_risk=0.73 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B08BCSXHHL",
+    "url": "https://www.amazon.in/dp/B08BCSXHHL",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some report poor durability and quality control issues.",
+      "visual": "clip_risk=0.78 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B08T64LW5V",
+    "url": "https://www.amazon.in/dp/B08T64LW5V",
+    "trust_score": 56,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some overly positive, others report significant issues.",
+      "visual": "clip_risk=0.73 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B097C88WXC",
+    "url": "https://www.amazon.in/dp/B097C88WXC",
+    "trust_score": 50,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; some reports of defects and inconsistencies.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0987QBHZQ",
+    "url": "https://www.amazon.in/dp/B0987QBHZQ",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, but no clear pattern of fake reviews.",
+      "visual": "clip_risk=0.75 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0987WVJ2B",
+    "url": "https://www.amazon.in/dp/B0987WVJ2B",
+    "trust_score": 54,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; some negative ones are balanced by many positive ones.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B09B2HXSKB",
+    "url": "https://www.amazon.in/dp/B09B2HXSKB",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, with no obvious pattern of fake reviews.",
+      "visual": "clip_risk=0.79 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B09G2YJC5G",
+    "url": "https://www.amazon.in/dp/B09G2YJC5G",
+    "trust_score": 37,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Duplicate positive and negative reviews suggest manipulation.",
+      "visual": "clip_risk=0.70 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B09NYDH3L9",
+    "url": "https://www.amazon.in/dp/B09NYDH3L9",
+    "trust_score": 60,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; some negative comments about quality and defects are outliers.",
+      "visual": "clip_risk=0.74 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B09P693ZRY",
+    "url": "https://www.amazon.in/dp/B09P693ZRY",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, regarding quality and size. No obvious signs of coordinated fake reviews.",
+      "visual": "clip_risk=0.79 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B09PLDBT3T",
+    "url": "https://www.amazon.in/dp/B09PLDBT3T",
+    "trust_score": 55,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some report damage.  Further investigation needed.",
+      "visual": "clip_risk=0.76 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B09QQN78M9",
+    "url": "https://www.amazon.in/dp/B09QQN78M9",
+    "trust_score": 57,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some overly positive, others negative, suggesting potential manipulation.",
+      "visual": "clip_risk=0.72 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B09SQ3VS5Q",
+    "url": "https://www.amazon.in/dp/B09SQ3VS5Q",
+    "trust_score": 60,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, but no obvious pattern of fake reviews.",
+      "visual": "clip_risk=0.75 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B09SVJKDY6",
+    "url": "https://www.amazon.in/dp/B09SVJKDY6",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; some negative ones are specific and detailed.",
+      "visual": "clip_risk=0.76 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B09SVKVFY7",
+    "url": "https://www.amazon.in/dp/B09SVKVFY7",
+    "trust_score": 60,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, with valid criticisms.",
+      "visual": "clip_risk=0.74 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B09W34RM6Y",
+    "url": "https://www.amazon.in/dp/B09W34RM6Y",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; one mentions a used product.",
+      "visual": "clip_risk=0.76 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B09W36565T",
+    "url": "https://www.amazon.in/dp/B09W36565T",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; one mentions a used product.",
+      "visual": "clip_risk=0.76 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B09W365KJ1",
+    "url": "https://www.amazon.in/dp/B09W365KJ1",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; one mentions a used product.",
+      "visual": "clip_risk=0.76 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B09W36674L",
+    "url": "https://www.amazon.in/dp/B09W36674L",
+    "trust_score": 60,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some overly positive, others critical. No clear pattern of fakeness.",
+      "visual": "clip_risk=0.74 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B09W36HHVW",
+    "url": "https://www.amazon.in/dp/B09W36HHVW",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; one mentions a used product.",
+      "visual": "clip_risk=0.76 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B09W38XCFS",
+    "url": "https://www.amazon.in/dp/B09W38XCFS",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; one mentions a used product.",
+      "visual": "clip_risk=0.76 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B09WLMCYLR",
+    "url": "https://www.amazon.in/dp/B09WLMCYLR",
+    "trust_score": 63,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; some inconsistencies in sizing and quality mentioned.",
+      "visual": "clip_risk=0.76 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B09X5ZC2DL",
+    "url": "https://www.amazon.in/dp/B09X5ZC2DL",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; one complaint about used shoes and lack of response.",
+      "visual": "clip_risk=0.76 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B09XXR7NTP",
+    "url": "https://www.amazon.in/dp/B09XXR7NTP",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, but no obvious pattern of fake reviews.",
+      "visual": "clip_risk=0.77 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0B3VLXGPK",
+    "url": "https://www.amazon.in/dp/B0B3VLXGPK",
+    "trust_score": 57,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, but no obvious signs of fakeness.",
+      "visual": "clip_risk=0.81 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0B4H8FMN9",
+    "url": "https://www.amazon.in/dp/B0B4H8FMN9",
+    "trust_score": 60,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some highlight quality issues.",
+      "visual": "clip_risk=0.73 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0B4HDR31C",
+    "url": "https://www.amazon.in/dp/B0B4HDR31C",
+    "trust_score": 60,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some highlight quality issues.",
+      "visual": "clip_risk=0.73 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0B4KC164V",
+    "url": "https://www.amazon.in/dp/B0B4KC164V",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; some negative but not overwhelmingly so.",
+      "visual": "clip_risk=0.75 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0B7JTP62Z",
+    "url": "https://www.amazon.in/dp/B0B7JTP62Z",
+    "trust_score": 44,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Many reviews mention poor quality and sizing issues.",
+      "visual": "clip_risk=0.74 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0B8T694F1",
+    "url": "https://www.amazon.in/dp/B0B8T694F1",
+    "trust_score": 69,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.72 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0B9BYJ3CX",
+    "url": "https://www.amazon.in/dp/B0B9BYJ3CX",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0B9ZJ2GY2",
+    "url": "https://www.amazon.in/dp/B0B9ZJ2GY2",
+    "trust_score": 60,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are mostly positive and detailed, showing genuine user experiences.",
+      "visual": "clip_risk=0.74 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BCGQT7TH",
+    "url": "https://www.amazon.in/dp/B0BCGQT7TH",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some detailed, others generic. No obvious coordinated effort.",
+      "visual": "clip_risk=0.75 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BDSSTSF4",
+    "url": "https://www.amazon.in/dp/B0BDSSTSF4",
+    "trust_score": 57,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, regarding quality and comfort.",
+      "visual": "clip_risk=0.80 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BG99XBHJ",
+    "url": "https://www.amazon.in/dp/B0BG99XBHJ",
+    "trust_score": 60,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some extremely negative, suggesting authenticity.",
+      "visual": "clip_risk=0.73 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BG9C2TQW",
+    "url": "https://www.amazon.in/dp/B0BG9C2TQW",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, indicating genuine feedback.",
+      "visual": "clip_risk=0.79 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BG9C3NNV",
+    "url": "https://www.amazon.in/dp/B0BG9C3NNV",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, indicating genuine feedback.",
+      "visual": "clip_risk=0.79 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BG9CTR4Z",
+    "url": "https://www.amazon.in/dp/B0BG9CTR4Z",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, indicating genuine feedback.",
+      "visual": "clip_risk=0.79 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BGCDK4VY",
+    "url": "https://www.amazon.in/dp/B0BGCDK4VY",
+    "trust_score": 36,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repeated positive and negative reviews suggest potential manipulation.",
+      "visual": "clip_risk=0.73 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BGDKDXVS",
+    "url": "https://www.amazon.in/dp/B0BGDKDXVS",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, but no obvious pattern of fakeness.",
+      "visual": "clip_risk=0.80 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BGS9MNLN",
+    "url": "https://www.amazon.in/dp/B0BGS9MNLN",
+    "trust_score": 34,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Multiple reviews question authenticity; inconsistencies in quality and color reported.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BHHRZBXJ",
+    "url": "https://www.amazon.in/dp/B0BHHRZBXJ",
+    "trust_score": 60,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive, genuine-sounding reviews; some minor inconsistencies.",
+      "visual": "clip_risk=0.83 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BK9FVXGW",
+    "url": "https://www.amazon.in/dp/B0BK9FVXGW",
+    "trust_score": 50,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, but no obvious pattern of fakeness.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BKNLY67H",
+    "url": "https://www.amazon.in/dp/B0BKNLY67H",
+    "trust_score": 57,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, but no obvious pattern of fakeness.",
+      "visual": "clip_risk=0.81 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BKTT1M2Y",
+    "url": "https://www.amazon.in/dp/B0BKTT1M2Y",
+    "trust_score": 62,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, but no obvious pattern of fake reviews.",
+      "visual": "clip_risk=0.69 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BM6VK1L2",
+    "url": "https://www.amazon.in/dp/B0BM6VK1L2",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, indicating genuine feedback.",
+      "visual": "clip_risk=0.76 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BQBVRQPL",
+    "url": "https://www.amazon.in/dp/B0BQBVRQPL",
+    "trust_score": 26,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive, short, and uninformative reviews suggest potential fakeness.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BQBVYV2K",
+    "url": "https://www.amazon.in/dp/B0BQBVYV2K",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BQBWDZZD",
+    "url": "https://www.amazon.in/dp/B0BQBWDZZD",
+    "trust_score": 26,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive phrasing suggests coordinated fake reviews.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BQBX36R8",
+    "url": "https://www.amazon.in/dp/B0BQBX36R8",
+    "trust_score": 26,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive phrasing suggests coordinated fake reviews.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BQBXR4KP",
+    "url": "https://www.amazon.in/dp/B0BQBXR4KP",
+    "trust_score": 26,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive phrasing suggests coordinated fake reviews.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BRBHH8QH",
+    "url": "https://www.amazon.in/dp/B0BRBHH8QH",
+    "trust_score": 26,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive, unnatural phrasing suggests coordinated fake reviews.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BRBJKS4F",
+    "url": "https://www.amazon.in/dp/B0BRBJKS4F",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BRBJW7RZ",
+    "url": "https://www.amazon.in/dp/B0BRBJW7RZ",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BRBKFQCH",
+    "url": "https://www.amazon.in/dp/B0BRBKFQCH",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BRBL8ZX1",
+    "url": "https://www.amazon.in/dp/B0BRBL8ZX1",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BRR179FL",
+    "url": "https://www.amazon.in/dp/B0BRR179FL",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BSLKJPXV",
+    "url": "https://www.amazon.in/dp/B0BSLKJPXV",
+    "trust_score": 50,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive, detailed reviews; some negative feedback included.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BVMDHHX7",
+    "url": "https://www.amazon.in/dp/B0BVMDHHX7",
+    "trust_score": 50,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative regarding quality and durability.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BVMGH5GP",
+    "url": "https://www.amazon.in/dp/B0BVMGH5GP",
+    "trust_score": 26,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive phrasing and inconsistent quality claims suggest potential manipulation.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BVMGN86G",
+    "url": "https://www.amazon.in/dp/B0BVMGN86G",
+    "trust_score": 50,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; some minor criticisms; no obvious signs of fakeness.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BVQQ1JD8",
+    "url": "https://www.amazon.in/dp/B0BVQQ1JD8",
+    "trust_score": 57,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, but no obvious signs of coordinated fake reviews.",
+      "visual": "clip_risk=0.80 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BVZQSQP8",
+    "url": "https://www.amazon.in/dp/B0BVZQSQP8",
+    "trust_score": 61,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, and a few seem suspicious.",
+      "visual": "clip_risk=0.72 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BWTSNWWL",
+    "url": "https://www.amazon.in/dp/B0BWTSNWWL",
+    "trust_score": 30,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive, generic phrasing suggests fake reviews.",
+      "visual": "clip_risk=0.79 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BYZRFFSR",
+    "url": "https://www.amazon.in/dp/B0BYZRFFSR",
+    "trust_score": 62,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; some negative comments about quality and price seem genuine.",
+      "visual": "clip_risk=0.78 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BZQ4MLGM",
+    "url": "https://www.amazon.in/dp/B0BZQ4MLGM",
+    "trust_score": 57,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some report poor quality and durability.",
+      "visual": "clip_risk=0.70 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0BZSVY2J3",
+    "url": "https://www.amazon.in/dp/B0BZSVY2J3",
+    "trust_score": 44,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Conflicting reviews; some praise, others cite poor quality and value.",
+      "visual": "clip_risk=0.73 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0C1VKJ6HB",
+    "url": "https://www.amazon.in/dp/B0C1VKJ6HB",
+    "trust_score": 68,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.74 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0C1VLD461",
+    "url": "https://www.amazon.in/dp/B0C1VLD461",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, but no obvious pattern of fakeness.",
+      "visual": "clip_risk=0.75 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0C1VLSK13",
+    "url": "https://www.amazon.in/dp/B0C1VLSK13",
+    "trust_score": 61,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, with no obvious pattern of fakeness.",
+      "visual": "clip_risk=0.71 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0C4C2BY2J",
+    "url": "https://www.amazon.in/dp/B0C4C2BY2J",
+    "trust_score": 63,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; some mention of quality issues.",
+      "visual": "clip_risk=0.77 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0C5DPPTYG",
+    "url": "https://www.amazon.in/dp/B0C5DPPTYG",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, with no obvious pattern of fakeness.",
+      "visual": "clip_risk=0.78 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0C656P3MS",
+    "url": "https://www.amazon.in/dp/B0C656P3MS",
+    "trust_score": 66,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.80 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0C6581XG5",
+    "url": "https://www.amazon.in/dp/B0C6581XG5",
+    "trust_score": 69,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.72 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0C65B25DT",
+    "url": "https://www.amazon.in/dp/B0C65B25DT",
+    "trust_score": 69,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.72 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0C65CTFZW",
+    "url": "https://www.amazon.in/dp/B0C65CTFZW",
+    "trust_score": 69,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.72 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0C7J323TY",
+    "url": "https://www.amazon.in/dp/B0C7J323TY",
+    "trust_score": 26,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive, poorly written reviews suggest coordinated fake reviews.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0C7W5K3BP",
+    "url": "https://www.amazon.in/dp/B0C7W5K3BP",
+    "trust_score": 62,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Overwhelmingly positive reviews; minor criticisms are typical.",
+      "visual": "clip_risk=0.80 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0C8MZ9W29",
+    "url": "https://www.amazon.in/dp/B0C8MZ9W29",
+    "trust_score": 44,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Several reviews are suspiciously similar; others express extreme dissatisfaction.",
+      "visual": "clip_risk=0.73 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0C9M368ZH",
+    "url": "https://www.amazon.in/dp/B0C9M368ZH",
+    "trust_score": 34,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Several reviews mention premature wear and tear, suggesting potential issues with product quality or authenticity.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0C9V643L9",
+    "url": "https://www.amazon.in/dp/B0C9V643L9",
+    "trust_score": 68,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.73 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0C9XRN5HQ",
+    "url": "https://www.amazon.in/dp/B0C9XRN5HQ",
+    "trust_score": 26,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Many identical, short, negative reviews suggest potential manipulation.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CBPX1617",
+    "url": "https://www.amazon.in/dp/B0CBPX1617",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CBPZXVDP",
+    "url": "https://www.amazon.in/dp/B0CBPZXVDP",
+    "trust_score": 50,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, no obvious pattern of fake reviews.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CBQ1251H",
+    "url": "https://www.amazon.in/dp/B0CBQ1251H",
+    "trust_score": 50,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some detailed, others generic. No obvious coordinated fake review pattern.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CCYMJLG3",
+    "url": "https://www.amazon.in/dp/B0CCYMJLG3",
+    "trust_score": 54,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; some negative ones are specific and credible.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CG5QXYVB",
+    "url": "https://www.amazon.in/dp/B0CG5QXYVB",
+    "trust_score": 45,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Repetitive positive and negative reviews suggest potential manipulation.",
+      "visual": "clip_risk=0.72 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CJ31W6SJ",
+    "url": "https://www.amazon.in/dp/B0CJ31W6SJ",
+    "trust_score": 61,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, with no obvious pattern of fakeness.",
+      "visual": "clip_risk=0.71 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CJQ87Z15",
+    "url": "https://www.amazon.in/dp/B0CJQ87Z15",
+    "trust_score": 36,
+    "verdict": "Manual",
+    "explain": {
+      "text": "High degree of text similarity across reviews.",
+      "visual": "clip_risk=0.74 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CJQ8XSNP",
+    "url": "https://www.amazon.in/dp/B0CJQ8XSNP",
+    "trust_score": 57,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, but no obvious pattern of fakeness.",
+      "visual": "clip_risk=0.81 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CJQJ8PF1",
+    "url": "https://www.amazon.in/dp/B0CJQJ8PF1",
+    "trust_score": 60,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are mostly positive and detailed, lacking obvious signs of fakeness.",
+      "visual": "clip_risk=0.73 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CK4Y5RRX",
+    "url": "https://www.amazon.in/dp/B0CK4Y5RRX",
+    "trust_score": 34,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repeated positive and negative reviews suggest potential manipulation.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CKFDVKSH",
+    "url": "https://www.amazon.in/dp/B0CKFDVKSH",
+    "trust_score": 34,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive phrasing and overly positive language suggest potential manipulation.",
+      "visual": "clip_risk=0.78 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CKYRMW7R",
+    "url": "https://www.amazon.in/dp/B0CKYRMW7R",
+    "trust_score": 26,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive, short, and negative reviews suggest coordinated fake reviews.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CKYWFRS2",
+    "url": "https://www.amazon.in/dp/B0CKYWFRS2",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CL4XR9JV",
+    "url": "https://www.amazon.in/dp/B0CL4XR9JV",
+    "trust_score": 44,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Several short, suspicious reviews with unusual phrasing and inconsistencies.",
+      "visual": "clip_risk=0.74 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CLGMP3YN",
+    "url": "https://www.amazon.in/dp/B0CLGMP3YN",
+    "trust_score": 45,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Repeated positive and negative reviews suggest potential manipulation.",
+      "visual": "clip_risk=0.72 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CMD6N48X",
+    "url": "https://www.amazon.in/dp/B0CMD6N48X",
+    "trust_score": 56,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some praise quality, others cite discomfort and inconsistencies.",
+      "visual": "clip_risk=0.74 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CMD8YF5R",
+    "url": "https://www.amazon.in/dp/B0CMD8YF5R",
+    "trust_score": 43,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Repetitive, short, and some unintelligible reviews suggest potential manipulation.",
+      "visual": "clip_risk=0.76 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CND4SGJ7",
+    "url": "https://www.amazon.in/dp/B0CND4SGJ7",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, but no obvious signs of coordinated fake reviews.",
+      "visual": "clip_risk=0.77 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CNMWVYWP",
+    "url": "https://www.amazon.in/dp/B0CNMWVYWP",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some report quality issues.",
+      "visual": "clip_risk=0.77 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CPT32WK6",
+    "url": "https://www.amazon.in/dp/B0CPT32WK6",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CQ57196R",
+    "url": "https://www.amazon.in/dp/B0CQ57196R",
+    "trust_score": 34,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Mixed reviews; many negative comments about premature wear and poor customer service.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CQRBR8ST",
+    "url": "https://www.amazon.in/dp/B0CQRBR8ST",
+    "trust_score": 54,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive, detailed reviews; one negative review present.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CQRC5MDN",
+    "url": "https://www.amazon.in/dp/B0CQRC5MDN",
+    "trust_score": 50,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, but no obvious pattern of fake reviews.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CQRR5JQ3",
+    "url": "https://www.amazon.in/dp/B0CQRR5JQ3",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; some negative feedback present.",
+      "visual": "clip_risk=0.79 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CRB4LMS3",
+    "url": "https://www.amazon.in/dp/B0CRB4LMS3",
+    "trust_score": 35,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive phrasing and excessive praise suggest potential fabrication.",
+      "visual": "clip_risk=0.77 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CRB4MK73",
+    "url": "https://www.amazon.in/dp/B0CRB4MK73",
+    "trust_score": 37,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive phrasing and excessive praise suggest potential fabrication.",
+      "visual": "clip_risk=0.72 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CRB6C3HY",
+    "url": "https://www.amazon.in/dp/B0CRB6C3HY",
+    "trust_score": 36,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive phrasing and excessive praise suggest potential fabrication.",
+      "visual": "clip_risk=0.73 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CRHJZ2JH",
+    "url": "https://www.amazon.in/dp/B0CRHJZ2JH",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, but no obvious pattern of fake reviews.",
+      "visual": "clip_risk=0.78 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CRHT3VH5",
+    "url": "https://www.amazon.in/dp/B0CRHT3VH5",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CRHXR7QX",
+    "url": "https://www.amazon.in/dp/B0CRHXR7QX",
+    "trust_score": 60,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some overly positive, others negative.  Potential for manipulation.",
+      "visual": "clip_risk=0.75 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CRSRJ99P",
+    "url": "https://www.amazon.in/dp/B0CRSRJ99P",
+    "trust_score": 62,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; one negative about sole, but overall sentiment is good.",
+      "visual": "clip_risk=0.80 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CSFRWZ2H",
+    "url": "https://www.amazon.in/dp/B0CSFRWZ2H",
+    "trust_score": 67,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.75 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CSW6DW99",
+    "url": "https://www.amazon.in/dp/B0CSW6DW99",
+    "trust_score": 66,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.78 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CSW84NCN",
+    "url": "https://www.amazon.in/dp/B0CSW84NCN",
+    "trust_score": 69,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.72 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CT8BQHWC",
+    "url": "https://www.amazon.in/dp/B0CT8BQHWC",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CT8DQNDV",
+    "url": "https://www.amazon.in/dp/B0CT8DQNDV",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CT8N9FL1",
+    "url": "https://www.amazon.in/dp/B0CT8N9FL1",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CT8QBPHH",
+    "url": "https://www.amazon.in/dp/B0CT8QBPHH",
+    "trust_score": 50,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are mostly positive and varied; no obvious signs of fakeness.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CTZP6Q78",
+    "url": "https://www.amazon.in/dp/B0CTZP6Q78",
+    "trust_score": 26,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive phrasing and structure suggest potential fabrication.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CTZPQ1VR",
+    "url": "https://www.amazon.in/dp/B0CTZPQ1VR",
+    "trust_score": 50,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative and detailed. No obvious signs of coordinated fake reviews.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CTZWTLBG",
+    "url": "https://www.amazon.in/dp/B0CTZWTLBG",
+    "trust_score": 26,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repeated positive and negative phrases suggest coordinated fake reviews.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CWR1CPNH",
+    "url": "https://www.amazon.in/dp/B0CWR1CPNH",
+    "trust_score": 50,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive, genuine reviews; some minor inconsistencies in sizing.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CWRY5NF6",
+    "url": "https://www.amazon.in/dp/B0CWRY5NF6",
+    "trust_score": 37,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive phrasing and overly positive language suggest potential manipulation.",
+      "visual": "clip_risk=0.72 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CWRY9WH2",
+    "url": "https://www.amazon.in/dp/B0CWRY9WH2",
+    "trust_score": 62,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, but no obvious pattern of fake reviews.",
+      "visual": "clip_risk=0.80 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CX2G99LF",
+    "url": "https://www.amazon.in/dp/B0CX2G99LF",
+    "trust_score": 61,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; one negative review seems genuine.",
+      "visual": "clip_risk=0.80 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CXX8MPZF",
+    "url": "https://www.amazon.in/dp/B0CXX8MPZF",
+    "trust_score": 36,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive, promotional phrasing suggests coordinated fake reviews.",
+      "visual": "clip_risk=0.74 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CXXKRNDH",
+    "url": "https://www.amazon.in/dp/B0CXXKRNDH",
+    "trust_score": 60,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, focusing on sizing and comfort issues.",
+      "visual": "clip_risk=0.74 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CY6TGFHW",
+    "url": "https://www.amazon.in/dp/B0CY6TGFHW",
+    "trust_score": 60,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some genuine concerns about quality and value.",
+      "visual": "clip_risk=0.74 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CZPR266S",
+    "url": "https://www.amazon.in/dp/B0CZPR266S",
+    "trust_score": 54,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; some minor complaints about sizing.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0CZRYF2TG",
+    "url": "https://www.amazon.in/dp/B0CZRYF2TG",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D1G551RG",
+    "url": "https://www.amazon.in/dp/B0D1G551RG",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive, detailed reviews; some minor inconsistencies.",
+      "visual": "clip_risk=0.77 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D31PTF4P",
+    "url": "https://www.amazon.in/dp/B0D31PTF4P",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative about quality and fit.",
+      "visual": "clip_risk=0.78 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D35QDYBV",
+    "url": "https://www.amazon.in/dp/B0D35QDYBV",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D3ZJBFND",
+    "url": "https://www.amazon.in/dp/B0D3ZJBFND",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D4CXTGN6",
+    "url": "https://www.amazon.in/dp/B0D4CXTGN6",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D4CZ6GN2",
+    "url": "https://www.amazon.in/dp/B0D4CZ6GN2",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D4ZQ2BDP",
+    "url": "https://www.amazon.in/dp/B0D4ZQ2BDP",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive, detailed reviews; some minor criticisms.",
+      "visual": "clip_risk=0.79 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D5BXCW9V",
+    "url": "https://www.amazon.in/dp/B0D5BXCW9V",
+    "trust_score": 68,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.73 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D5XWVY6Q",
+    "url": "https://www.amazon.in/dp/B0D5XWVY6Q",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some praise quality and style, others cite defects and poor comfort.",
+      "visual": "clip_risk=0.77 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D636W3MW",
+    "url": "https://www.amazon.in/dp/B0D636W3MW",
+    "trust_score": 34,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repeated positive and negative reviews raise suspicion of manipulation.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D6VNL3C4",
+    "url": "https://www.amazon.in/dp/B0D6VNL3C4",
+    "trust_score": 50,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are positive but repetitive; lack detail and diversity.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D6VNYKWK",
+    "url": "https://www.amazon.in/dp/B0D6VNYKWK",
+    "trust_score": 50,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive, genuine-sounding reviews; some repetition.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D6VT5352",
+    "url": "https://www.amazon.in/dp/B0D6VT5352",
+    "trust_score": 54,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive, genuine-sounding reviews.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D6VWXXR9",
+    "url": "https://www.amazon.in/dp/B0D6VWXXR9",
+    "trust_score": 26,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive, generic positive reviews suggest potential manipulation.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D6VYWQ84",
+    "url": "https://www.amazon.in/dp/B0D6VYWQ84",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D6VZ47H9",
+    "url": "https://www.amazon.in/dp/B0D6VZ47H9",
+    "trust_score": 50,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are mostly positive and descriptive, with some minor inconsistencies.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D6VZHX4F",
+    "url": "https://www.amazon.in/dp/B0D6VZHX4F",
+    "trust_score": 26,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive phrasing and overly positive language suggest potential manipulation.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D799T6K4",
+    "url": "https://www.amazon.in/dp/B0D799T6K4",
+    "trust_score": 36,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repeated, negative reviews suggest potential manipulation.",
+      "visual": "clip_risk=0.73 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D7CP746C",
+    "url": "https://www.amazon.in/dp/B0D7CP746C",
+    "trust_score": 60,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive, some negative but no obvious coordinated fake reviews.",
+      "visual": "clip_risk=0.73 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D7CPS79M",
+    "url": "https://www.amazon.in/dp/B0D7CPS79M",
+    "trust_score": 60,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive, some negative but no obvious coordinated fake reviews.",
+      "visual": "clip_risk=0.73 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D7CQ6797",
+    "url": "https://www.amazon.in/dp/B0D7CQ6797",
+    "trust_score": 60,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive, some negative but no obvious coordinated fake reviews.",
+      "visual": "clip_risk=0.73 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D7CQQ1K8",
+    "url": "https://www.amazon.in/dp/B0D7CQQ1K8",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive, some negative but no obvious coordinated fake reviews.",
+      "visual": "clip_risk=0.78 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D7CRMMRN",
+    "url": "https://www.amazon.in/dp/B0D7CRMMRN",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive, some negative but no obvious coordinated fake reviews.",
+      "visual": "clip_risk=0.78 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D7CRZCJ7",
+    "url": "https://www.amazon.in/dp/B0D7CRZCJ7",
+    "trust_score": 60,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive, some negative but no obvious coordinated fake reviews.",
+      "visual": "clip_risk=0.73 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D7CWRGGG",
+    "url": "https://www.amazon.in/dp/B0D7CWRGGG",
+    "trust_score": 27,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive, short, and lack descriptive detail.",
+      "visual": "clip_risk=0.87 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D7D5B27N",
+    "url": "https://www.amazon.in/dp/B0D7D5B27N",
+    "trust_score": 66,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; some size issues reported.",
+      "visual": "clip_risk=0.70 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D7M4NHC5",
+    "url": "https://www.amazon.in/dp/B0D7M4NHC5",
+    "trust_score": 66,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.80 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D7QBBYPQ",
+    "url": "https://www.amazon.in/dp/B0D7QBBYPQ",
+    "trust_score": 61,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; some negative comments about quality and delivery.",
+      "visual": "clip_risk=0.72 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D83YGPJ1",
+    "url": "https://www.amazon.in/dp/B0D83YGPJ1",
+    "trust_score": 36,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive phrasing and overly positive language suggest potential manipulation.",
+      "visual": "clip_risk=0.73 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D841CHWY",
+    "url": "https://www.amazon.in/dp/B0D841CHWY",
+    "trust_score": 45,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Conflicting reviews; many positive, but also many negative, suggesting potential manipulation.",
+      "visual": "clip_risk=0.71 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D842GL9S",
+    "url": "https://www.amazon.in/dp/B0D842GL9S",
+    "trust_score": 57,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; one negative review mentions a refund issue.",
+      "visual": "clip_risk=0.81 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D842QTMN",
+    "url": "https://www.amazon.in/dp/B0D842QTMN",
+    "trust_score": 60,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some praise comfort and style, others cite poor quality and inconsistent manufacturing.",
+      "visual": "clip_risk=0.74 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D843P57V",
+    "url": "https://www.amazon.in/dp/B0D843P57V",
+    "trust_score": 43,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Repetitive positive reviews and negative experiences mentioned.",
+      "visual": "clip_risk=0.75 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D8L96L8T",
+    "url": "https://www.amazon.in/dp/B0D8L96L8T",
+    "trust_score": 56,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some highlight poor quality and durability issues.",
+      "visual": "clip_risk=0.74 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D8L98NXR",
+    "url": "https://www.amazon.in/dp/B0D8L98NXR",
+    "trust_score": 57,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some highlight poor quality and durability issues.",
+      "visual": "clip_risk=0.72 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D8L9J4J8",
+    "url": "https://www.amazon.in/dp/B0D8L9J4J8",
+    "trust_score": 56,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some highlight poor quality and durability issues.",
+      "visual": "clip_risk=0.73 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D8ZXQSTC",
+    "url": "https://www.amazon.in/dp/B0D8ZXQSTC",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0D94474N8",
+    "url": "https://www.amazon.in/dp/B0D94474N8",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, with no obvious pattern of fakeness.",
+      "visual": "clip_risk=0.77 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DC3VPG5Q",
+    "url": "https://www.amazon.in/dp/B0DC3VPG5Q",
+    "trust_score": 33,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive, overly positive phrasing suggests potential manipulation.",
+      "visual": "clip_risk=0.81 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DC6XCDH3",
+    "url": "https://www.amazon.in/dp/B0DC6XCDH3",
+    "trust_score": 65,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.81 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DC6Y5LZV",
+    "url": "https://www.amazon.in/dp/B0DC6Y5LZV",
+    "trust_score": 34,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive, similar phrasing; lacks detail and individual experience.",
+      "visual": "clip_risk=0.79 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DCG9Q32T",
+    "url": "https://www.amazon.in/dp/B0DCG9Q32T",
+    "trust_score": 67,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.77 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DCGHJ1BM",
+    "url": "https://www.amazon.in/dp/B0DCGHJ1BM",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are mostly genuine; some minor inconsistencies.",
+      "visual": "clip_risk=0.80 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DCP1JYH2",
+    "url": "https://www.amazon.in/dp/B0DCP1JYH2",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some report defects.",
+      "visual": "clip_risk=0.79 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DCP3LNKD",
+    "url": "https://www.amazon.in/dp/B0DCP3LNKD",
+    "trust_score": 60,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, no obvious signs of coordinated fake reviews.",
+      "visual": "clip_risk=0.75 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DCP3PRHM",
+    "url": "https://www.amazon.in/dp/B0DCP3PRHM",
+    "trust_score": 34,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive phrasing and structure suggest coordinated fake reviews.",
+      "visual": "clip_risk=0.79 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DCP4G48D",
+    "url": "https://www.amazon.in/dp/B0DCP4G48D",
+    "trust_score": 36,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive, short, and potentially fake reviews.",
+      "visual": "clip_risk=0.74 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DDY4LN7V",
+    "url": "https://www.amazon.in/dp/B0DDY4LN7V",
+    "trust_score": 36,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive phrasing and overly positive language suggest potential manipulation.",
+      "visual": "clip_risk=0.74 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DDY4QWLN",
+    "url": "https://www.amazon.in/dp/B0DDY4QWLN",
+    "trust_score": 57,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; some negative, but not overly suspicious.",
+      "visual": "clip_risk=0.80 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DFGV3QJ6",
+    "url": "https://www.amazon.in/dp/B0DFGV3QJ6",
+    "trust_score": 57,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; some negative feedback balanced by many positive ones.",
+      "visual": "clip_risk=0.80 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DFH39GQM",
+    "url": "https://www.amazon.in/dp/B0DFH39GQM",
+    "trust_score": 42,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Many reviews cite poor quality and discomfort; some positive reviews seem generic.",
+      "visual": "clip_risk=0.80 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DFLTW7G4",
+    "url": "https://www.amazon.in/dp/B0DFLTW7G4",
+    "trust_score": 32,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive negative reviews;  lack of detail; suspicious phrasing.",
+      "visual": "clip_risk=0.83 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DFLXQ52S",
+    "url": "https://www.amazon.in/dp/B0DFLXQ52S",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; some negative ones lack detail.",
+      "visual": "clip_risk=0.79 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DFLYFJ4B",
+    "url": "https://www.amazon.in/dp/B0DFLYFJ4B",
+    "trust_score": 60,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, but no obvious pattern of fake reviews.",
+      "visual": "clip_risk=0.73 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DFLZ5M51",
+    "url": "https://www.amazon.in/dp/B0DFLZ5M51",
+    "trust_score": 61,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some report very poor quality and durability.",
+      "visual": "clip_risk=0.71 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DFLZ7X4Q",
+    "url": "https://www.amazon.in/dp/B0DFLZ7X4Q",
+    "trust_score": 66,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Overwhelmingly positive, consistent reviews.",
+      "visual": "clip_risk=0.70 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DFTNXGLQ",
+    "url": "https://www.amazon.in/dp/B0DFTNTCG8",
+    "trust_score": 67,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.76 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DFWQL88Z",
+    "url": "https://www.amazon.in/dp/B0DFWQL88Z",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are overwhelmingly positive and lack red flags.",
+      "visual": "clip_risk=0.77 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DFWR2HTN",
+    "url": "https://www.amazon.in/dp/B0DFWR2HTN",
+    "trust_score": 60,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are overwhelmingly positive and lack red flags.",
+      "visual": "clip_risk=0.75 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DFWRX29P",
+    "url": "https://www.amazon.in/dp/B0DFWRX29P",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are overwhelmingly positive and lack red flags.",
+      "visual": "clip_risk=0.75 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DFWRXLDB",
+    "url": "https://www.amazon.in/dp/B0DFWRXLDB",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are overwhelmingly positive and lack red flags.",
+      "visual": "clip_risk=0.75 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DFWS5FXG",
+    "url": "https://www.amazon.in/dp/B0DFWS5FXG",
+    "trust_score": 60,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are overwhelmingly positive and lack red flags.",
+      "visual": "clip_risk=0.75 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DFWTDVNX",
+    "url": "https://www.amazon.in/dp/B0DFWTDVNX",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are overwhelmingly positive and lack red flags.",
+      "visual": "clip_risk=0.77 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DFWTXV2Q",
+    "url": "https://www.amazon.in/dp/B0DFWTXV2Q",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are overwhelmingly positive and lack red flags.",
+      "visual": "clip_risk=0.77 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DG56VTRQ",
+    "url": "https://www.amazon.in/dp/B0DG56VTRQ",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive, some repetitive phrasing.",
+      "visual": "clip_risk=0.76 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DG58S1D9",
+    "url": "https://www.amazon.in/dp/B0DG58S1D9",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; some mention sizing or comfort issues.",
+      "visual": "clip_risk=0.75 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DG58VCRG",
+    "url": "https://www.amazon.in/dp/B0DG58VCRG",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; some mention sizing or comfort issues.",
+      "visual": "clip_risk=0.75 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DG5B65T8",
+    "url": "https://www.amazon.in/dp/B0DG5B65T8",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; some mention sizing or comfort issues.",
+      "visual": "clip_risk=0.75 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DG5B9R92",
+    "url": "https://www.amazon.in/dp/B0DG5B9R92",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; some mention sizing or comfort issues.",
+      "visual": "clip_risk=0.75 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DG5CF9LW",
+    "url": "https://www.amazon.in/dp/B0DG5CF9LW",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; some mention sizing or comfort issues.",
+      "visual": "clip_risk=0.75 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DG5D1MQ5",
+    "url": "https://www.amazon.in/dp/B0DG5D1MQ5",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive, some repetitive phrasing.",
+      "visual": "clip_risk=0.76 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DG5DJVKC",
+    "url": "https://www.amazon.in/dp/B0DG5DJVKC",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; some mention sizing or comfort issues.",
+      "visual": "clip_risk=0.75 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DG5DTQF2",
+    "url": "https://www.amazon.in/dp/B0DG5DTQF2",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive, some repetitive phrasing.",
+      "visual": "clip_risk=0.76 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DG5G651R",
+    "url": "https://www.amazon.in/dp/B0DG5G651R",
+    "trust_score": 60,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; some mention sizing or comfort issues.",
+      "visual": "clip_risk=0.74 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DG5MN82X",
+    "url": "https://www.amazon.in/dp/B0DG5MN82X",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive, some repetitive phrasing.",
+      "visual": "clip_risk=0.76 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DGCGMNJ2",
+    "url": "https://www.amazon.in/dp/B0DGCGMNJ2",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some praise quality, others cite cheap materials and discomfort.",
+      "visual": "clip_risk=0.77 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DGCLJCSS",
+    "url": "https://www.amazon.in/dp/B0DGCLJCSS",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some praise quality, others cite cheap materials and discomfort.",
+      "visual": "clip_risk=0.77 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DGCMM93B",
+    "url": "https://www.amazon.in/dp/B0DGCMM93B",
+    "trust_score": 53,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some report quality issues.",
+      "visual": "clip_risk=0.81 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DGCN9NM6",
+    "url": "https://www.amazon.in/dp/B0DGCN9NM6",
+    "trust_score": 56,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some praise comfort and style, others cite poor quality and sizing issues.",
+      "visual": "clip_risk=0.74 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DGCPRZRH",
+    "url": "https://www.amazon.in/dp/B0DGCPRZRH",
+    "trust_score": 56,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some praise comfort and style, others cite poor quality and sizing issues.",
+      "visual": "clip_risk=0.74 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DGCRH9M1",
+    "url": "https://www.amazon.in/dp/B0DGCRH9M1",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some praise quality, others cite cheap materials and discomfort.",
+      "visual": "clip_risk=0.77 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DGCRNXBC",
+    "url": "https://www.amazon.in/dp/B0DGCRNXBC",
+    "trust_score": 52,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some report quality issues.",
+      "visual": "clip_risk=0.84 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DGCSDMGK",
+    "url": "https://www.amazon.in/dp/B0DGCSDMGK",
+    "trust_score": 57,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some praise comfort and style, others cite poor quality and sizing issues.",
+      "visual": "clip_risk=0.70 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DGCSFP9V",
+    "url": "https://www.amazon.in/dp/B0DGCSFP9V",
+    "trust_score": 54,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some report quality issues.",
+      "visual": "clip_risk=0.78 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DGCSQ7KT",
+    "url": "https://www.amazon.in/dp/B0DGCSQ7KT",
+    "trust_score": 53,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some report quality issues.",
+      "visual": "clip_risk=0.81 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DGCSY2JV",
+    "url": "https://www.amazon.in/dp/B0DGCSY2JV",
+    "trust_score": 56,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some report quality issues.",
+      "visual": "clip_risk=0.73 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DGCYDH7K",
+    "url": "https://www.amazon.in/dp/B0DGCYDH7K",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some praise quality, others cite cheap materials and discomfort.",
+      "visual": "clip_risk=0.76 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DGG7N9NJ",
+    "url": "https://www.amazon.in/dp/B0DGG7N9NJ",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, but no obvious signs of coordinated fake reviews.",
+      "visual": "clip_risk=0.78 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DGGR5RVW",
+    "url": "https://www.amazon.in/dp/B0DGGR5RVW",
+    "trust_score": 61,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, but no obvious pattern of fake reviews.",
+      "visual": "clip_risk=0.72 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DJ97L6DD",
+    "url": "https://www.amazon.in/dp/B0DJ97L6DD",
+    "trust_score": 50,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive, genuine reviews; some minor inconsistencies in sizing.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DJD6VH94",
+    "url": "https://www.amazon.in/dp/B0DJD6VH94",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, but no obvious pattern of fakeness.",
+      "visual": "clip_risk=0.79 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DK5M9D4Q",
+    "url": "https://www.amazon.in/dp/B0DK5M9D4Q",
+    "trust_score": 35,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive, generic phrasing suggests coordinated fake reviews.",
+      "visual": "clip_risk=0.77 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DK7HVJ4S",
+    "url": "https://www.amazon.in/dp/B0DK7HVJ4S",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, and some appear suspicious.",
+      "visual": "clip_risk=0.78 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DK8ZB75Q",
+    "url": "https://www.amazon.in/dp/B0DK8ZB75Q",
+    "trust_score": 67,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.77 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DM1J9H25",
+    "url": "https://www.amazon.in/dp/B0DM1J9H25",
+    "trust_score": 36,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repeated, negative reviews;  potential coordinated effort.",
+      "visual": "clip_risk=0.73 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DM1KCLM5",
+    "url": "https://www.amazon.in/dp/B0DM1KCLM5",
+    "trust_score": 36,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive negative reviews; identical phrasing suggests coordinated fake reviews.",
+      "visual": "clip_risk=0.73 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DM1LS7KH",
+    "url": "https://www.amazon.in/dp/B0DM1LS7KH",
+    "trust_score": 34,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repeated positive and negative reviews suggest potential manipulation.",
+      "visual": "clip_risk=0.78 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DM88QSX7",
+    "url": "https://www.amazon.in/dp/B0DM88QSX7",
+    "trust_score": 70,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.69 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DM8BKRT8",
+    "url": "https://www.amazon.in/dp/B0DM8BKRT8",
+    "trust_score": 66,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.78 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DMFGFFL2",
+    "url": "https://www.amazon.in/dp/B0DMFGFFL2",
+    "trust_score": 43,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Repetitive phrasing and excessive praise suggest potential manipulation.",
+      "visual": "clip_risk=0.77 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DNKSGF2G",
+    "url": "https://www.amazon.in/dp/B0DNKSGF2G",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DNQW4CWV",
+    "url": "https://www.amazon.in/dp/B0DNQW4CWV",
+    "trust_score": 68,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.73 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DNR1R8K6",
+    "url": "https://www.amazon.in/dp/B0DNR1R8K6",
+    "trust_score": 61,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, but no obvious pattern of fakeness.",
+      "visual": "clip_risk=0.72 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DP2XXD4G",
+    "url": "https://www.amazon.in/dp/B0DP2XXD4G",
+    "trust_score": 35,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive, overly positive reviews suggest potential manipulation.",
+      "visual": "clip_risk=0.76 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DP55QGKJ",
+    "url": "https://www.amazon.in/dp/B0DP55QGKJ",
+    "trust_score": 33,
+    "verdict": "Manual",
+    "explain": {
+      "text": "High repetition of identical reviews suggests potential manipulation.",
+      "visual": "clip_risk=0.80 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DPG8YMF4",
+    "url": "https://www.amazon.in/dp/B0DPG8YMF4",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; some negative but not overwhelmingly so.",
+      "visual": "clip_risk=0.79 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DPG91FHD",
+    "url": "https://www.amazon.in/dp/B0DPG91FHD",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; some negative but not overwhelmingly so.",
+      "visual": "clip_risk=0.79 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DPNGZ27C",
+    "url": "https://www.amazon.in/dp/B0DPNGZ27C",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DPQT1TZ7",
+    "url": "https://www.amazon.in/dp/B0DPQT1TZ7",
+    "trust_score": 35,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive phrasing and overly positive language suggest potential manipulation.",
+      "visual": "clip_risk=0.77 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DPSPT7C3",
+    "url": "https://www.amazon.in/dp/B0DPSPT7C3",
+    "trust_score": 68,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.74 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DQDL3CR5",
+    "url": "https://www.amazon.in/dp/B0DQDL3CR5",
+    "trust_score": 43,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Repeated, similar negative reviews suggest potential manipulation.",
+      "visual": "clip_risk=0.77 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DQJHVZR5",
+    "url": "https://www.amazon.in/dp/B0DQJHVZR5",
+    "trust_score": 34,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive positive reviews; lack of negative detail.",
+      "visual": "clip_risk=0.79 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DQP5GDS8",
+    "url": "https://www.amazon.in/dp/B0DQP5GDS8",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, with no obvious pattern of fakeness.",
+      "visual": "clip_risk=0.79 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DQQ87P9N",
+    "url": "https://www.amazon.in/dp/B0DQQ87P9N",
+    "trust_score": 61,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; a few negative ones about damaged products.",
+      "visual": "clip_risk=0.75 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DQQ9HDMM",
+    "url": "https://www.amazon.in/dp/B0DQQ9HDMM",
+    "trust_score": 35,
+    "verdict": "Manual",
+    "explain": {
+      "text": "High frequency of identical negative reviews suggests potential manipulation.",
+      "visual": "clip_risk=0.76 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DR5XG4B6",
+    "url": "https://www.amazon.in/dp/B0DR5XG4B6",
+    "trust_score": 34,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive, overly positive language; lacks detail and specifics.",
+      "visual": "clip_risk=0.79 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DR8Z1V86",
+    "url": "https://www.amazon.in/dp/B0DR8Z1V86",
+    "trust_score": 60,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; some negative but specific and credible.",
+      "visual": "clip_risk=0.75 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DR95FV1B",
+    "url": "https://www.amazon.in/dp/B0DR95FV1B",
+    "trust_score": 61,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, with no clear pattern of fakeness.",
+      "visual": "clip_risk=0.72 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DRVW6TK4",
+    "url": "https://www.amazon.in/dp/B0DRVW6TK4",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, but no obvious pattern of fakeness.",
+      "visual": "clip_risk=0.77 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DSC3H1R8",
+    "url": "https://www.amazon.in/dp/B0DSC3H1R8",
+    "trust_score": 60,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive reviews; some inconsistencies and generic phrasing.",
+      "visual": "clip_risk=0.74 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DSC6L943",
+    "url": "https://www.amazon.in/dp/B0DSC6L943",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive, genuine-sounding reviews with some minor criticisms.",
+      "visual": "clip_risk=0.76 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DSC6RKRF",
+    "url": "https://www.amazon.in/dp/B0DSC6RKRF",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive, genuine-sounding reviews with some minor criticisms.",
+      "visual": "clip_risk=0.78 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DSFLYZRV",
+    "url": "https://www.amazon.in/dp/B0DSFLYZRV",
+    "trust_score": 44,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Conflicting reviews; polarized opinions suggest potential manipulation.",
+      "visual": "clip_risk=0.74 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DT42Q8HY",
+    "url": "https://www.amazon.in/dp/B0DT42Q8HY",
+    "trust_score": 68,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.73 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DTTG1MKW",
+    "url": "https://www.amazon.in/dp/B0DTTG1MKW",
+    "trust_score": 63,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are detailed and varied; no obvious signs of fakeness.",
+      "visual": "clip_risk=0.75 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DTTKQ5S2",
+    "url": "https://www.amazon.in/dp/B0DTTKQ5S2",
+    "trust_score": 63,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are detailed and varied; no obvious signs of fakeness.",
+      "visual": "clip_risk=0.77 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DTTKSCV9",
+    "url": "https://www.amazon.in/dp/B0DTTKSCV9",
+    "trust_score": 63,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are detailed and varied; no obvious signs of fakeness.",
+      "visual": "clip_risk=0.77 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DTYY7QR2",
+    "url": "https://www.amazon.in/dp/B0DTYY7QR2",
+    "trust_score": 65,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.80 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DV5CKNV6",
+    "url": "https://www.amazon.in/dp/B0DV5CKNV6",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive, detailed reviews; some short, repetitive ones.",
+      "visual": "clip_risk=0.76 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DVLRT6SZ",
+    "url": "https://www.amazon.in/dp/B0DVLRT6SZ",
+    "trust_score": 65,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.81 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DVYQ5VSK",
+    "url": "https://www.amazon.in/dp/B0DVYQ5VSK",
+    "trust_score": 62,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are positive and detailed, lacking suspicious patterns.",
+      "visual": "clip_risk=0.79 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DVYWPN8D",
+    "url": "https://www.amazon.in/dp/B0DVYWPN8D",
+    "trust_score": 62,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Overwhelmingly positive reviews; one mention of damaged goods.",
+      "visual": "clip_risk=0.79 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DWK3G1PL",
+    "url": "https://www.amazon.in/dp/B0DWK3G1PL",
+    "trust_score": 26,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive phrasing and overly positive language suggest potential fabrication.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DWSXR82C",
+    "url": "https://www.amazon.in/dp/B0DWSXR82C",
+    "trust_score": 38,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive, short, and overly positive reviews suggest potential manipulation.",
+      "visual": "clip_risk=0.70 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DWSZNF99",
+    "url": "https://www.amazon.in/dp/B0DWSZNF99",
+    "trust_score": 38,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive, short, and overly positive reviews suggest potential manipulation.",
+      "visual": "clip_risk=0.69 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DWXQR9MB",
+    "url": "https://www.amazon.in/dp/B0DWXQR9MB",
+    "trust_score": 34,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Overwhelmingly positive and repetitive reviews.",
+      "visual": "clip_risk=0.69 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DWXS2PZN",
+    "url": "https://www.amazon.in/dp/B0DWXS2PZN",
+    "trust_score": 28,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Overwhelmingly positive and repetitive reviews.",
+      "visual": "clip_risk=0.83 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DWXVL85D",
+    "url": "https://www.amazon.in/dp/B0DWXVL85D",
+    "trust_score": 34,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Overwhelmingly positive and repetitive reviews.",
+      "visual": "clip_risk=0.69 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DWXYCGWD",
+    "url": "https://www.amazon.in/dp/B0DWXYCGWD",
+    "trust_score": 61,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are mostly short and positive, but not suspiciously so.",
+      "visual": "clip_risk=0.71 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DXVGMDM1",
+    "url": "https://www.amazon.in/dp/B0DXVGMDM1",
+    "trust_score": 37,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive phrasing and overly positive language suggest potential fabrication.",
+      "visual": "clip_risk=0.72 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DY1Q7DVM",
+    "url": "https://www.amazon.in/dp/B0DY1Q7DVM",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are positive and detailed, lacking obvious signs of fakeness.",
+      "visual": "clip_risk=0.79 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DYYBK84Z",
+    "url": "https://www.amazon.in/dp/B0DYYBK84Z",
+    "trust_score": 61,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are mostly positive and detailed, describing product features and experiences.",
+      "visual": "clip_risk=0.80 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DZ28HWSG",
+    "url": "https://www.amazon.in/dp/B0DZ28HWSG",
+    "trust_score": 62,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are positive and detailed, lacking suspicious patterns.",
+      "visual": "clip_risk=0.79 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DZ2Z3R3C",
+    "url": "https://www.amazon.in/dp/B0DZ2Z3R3C",
+    "trust_score": 35,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive phrasing and overly positive language suggest potential manipulation.",
+      "visual": "clip_risk=0.76 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DZ31DD4H",
+    "url": "https://www.amazon.in/dp/B0DZ31DD4H",
+    "trust_score": 36,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive phrasing and overly positive language suggest potential manipulation.",
+      "visual": "clip_risk=0.74 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DZ31QGH2",
+    "url": "https://www.amazon.in/dp/B0DZ31QGH2",
+    "trust_score": 36,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive phrasing and overly positive language suggest potential manipulation.",
+      "visual": "clip_risk=0.74 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DZHTG5VT",
+    "url": "https://www.amazon.in/dp/B0DZHTG5VT",
+    "trust_score": 63,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are overwhelmingly positive and detailed, lacking suspicious patterns.",
+      "visual": "clip_risk=0.75 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DZNXXYD7",
+    "url": "https://www.amazon.in/dp/B0DZNXXYD7",
+    "trust_score": 26,
+    "verdict": "Manual",
+    "explain": {
+      "text": "High degree of repetition across reviews.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0DZSTNZPK",
+    "url": "https://www.amazon.in/dp/B0DZSTNZPK",
+    "trust_score": 61,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are positive and detailed, lacking obvious signs of fakeness.",
+      "visual": "clip_risk=0.71 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F18DWTVF",
+    "url": "https://www.amazon.in/dp/B0F18DWTVF",
+    "trust_score": 64,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are positive and detailed, lacking red flags.",
+      "visual": "clip_risk=0.73 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F2454DDN",
+    "url": "https://www.amazon.in/dp/B0F2454DDN",
+    "trust_score": 37,
+    "verdict": "Manual",
+    "explain": {
+      "text": "High frequency of identical reviews suggests potential manipulation.",
+      "visual": "clip_risk=0.71 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F269R7BS",
+    "url": "https://www.amazon.in/dp/B0F269R7BS",
+    "trust_score": 36,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Duplicate reviews suggest potential manipulation.",
+      "visual": "clip_risk=0.74 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F32XDTTZ",
+    "url": "https://www.amazon.in/dp/B0F32XDTTZ",
+    "trust_score": 70,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.70 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F389JM3T",
+    "url": "https://www.amazon.in/dp/B0F389JM3T",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are positive but contain repetitive phrasing and superlative language.",
+      "visual": "clip_risk=0.79 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F3JJF1CW",
+    "url": "https://www.amazon.in/dp/B0F3JJF1CW",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F3XQGQ5S",
+    "url": "https://www.amazon.in/dp/B0F3XQGQ5S",
+    "trust_score": 70,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.68 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F4DFTNSR",
+    "url": "https://www.amazon.in/dp/B0F4DFTNSR",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are positive and detailed, lacking obvious signs of fakeness.",
+      "visual": "clip_risk=0.80 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F4DGR13F",
+    "url": "https://www.amazon.in/dp/B0F4DGR13F",
+    "trust_score": 62,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are mostly positive and detailed, lacking obvious signs of fakeness.",
+      "visual": "clip_risk=0.79 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F4DK1D3R",
+    "url": "https://www.amazon.in/dp/B0F4DK1D3R",
+    "trust_score": 57,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mostly positive, detailed reviews; some minor issues mentioned.",
+      "visual": "clip_risk=0.80 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F4DMFPF1",
+    "url": "https://www.amazon.in/dp/B0F4DMFPF1",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are positive but repetitive; lack detail and negative feedback.",
+      "visual": "clip_risk=0.79 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F4XBRF1P",
+    "url": "https://www.amazon.in/dp/B0F4XBRF1P",
+    "trust_score": 70,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.69 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F5BMD2NY",
+    "url": "https://www.amazon.in/dp/B0F5BMD2NY",
+    "trust_score": 35,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repeated, short, and potentially incentivized reviews.",
+      "visual": "clip_risk=0.77 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F5BMMGBT",
+    "url": "https://www.amazon.in/dp/B0F5BMMGBT",
+    "trust_score": 35,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repeated, short, and potentially incentivized reviews.",
+      "visual": "clip_risk=0.77 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F5BR8L4Y",
+    "url": "https://www.amazon.in/dp/B0F5BR8L4Y",
+    "trust_score": 63,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are positive and detailed, lacking suspicious patterns.",
+      "visual": "clip_risk=0.75 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F5BSQ8YL",
+    "url": "https://www.amazon.in/dp/B0F5BSQ8YL",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are positive and detailed, lacking suspicious patterns.",
+      "visual": "clip_risk=0.79 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F5BT92BQ",
+    "url": "https://www.amazon.in/dp/B0F5BT92BQ",
+    "trust_score": 60,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are positive and detailed, lacking suspicious patterns.",
+      "visual": "clip_risk=0.74 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F5BTN9D8",
+    "url": "https://www.amazon.in/dp/B0F5BTN9D8",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are positive and detailed, lacking suspicious patterns.",
+      "visual": "clip_risk=0.79 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F5BWGV3Y",
+    "url": "https://www.amazon.in/dp/B0F5BWGV3Y",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, but no obvious pattern of fake reviews.",
+      "visual": "clip_risk=0.79 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F5BX3T2D",
+    "url": "https://www.amazon.in/dp/B0F5BX3T2D",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are positive and detailed, lacking suspicious patterns.",
+      "visual": "clip_risk=0.77 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F6N23PQ7",
+    "url": "https://www.amazon.in/dp/B0F6N23PQ7",
+    "trust_score": 59,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some genuine concerns about quality and defects, others positive.",
+      "visual": "clip_risk=0.76 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F6VM2GL7",
+    "url": "https://www.amazon.in/dp/B0F6VM2GL7",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F6VQJ41L",
+    "url": "https://www.amazon.in/dp/B0F6VQJ41L",
+    "trust_score": 50,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Mixed reviews; some positive, some negative, and some potentially fake.",
+      "visual": "clip_risk=1.00 brand_flag=True",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F8W5BQ5D",
+    "url": "https://www.amazon.in/dp/B0F8W5BQ5D",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are positive but lack diversity and contain repetitive phrasing.",
+      "visual": "clip_risk=0.79 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F8W5HYCG",
+    "url": "https://www.amazon.in/dp/B0F8W5HYCG",
+    "trust_score": 58,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are positive but lack diversity and contain repetitive phrasing.",
+      "visual": "clip_risk=0.78 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F8W5L74K",
+    "url": "https://www.amazon.in/dp/B0F8W5L74K",
+    "trust_score": 60,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are positive but lack diversity and contain repetitive phrasing.",
+      "visual": "clip_risk=0.75 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F8W61VDZ",
+    "url": "https://www.amazon.in/dp/B0F8W61VDZ",
+    "trust_score": 36,
+    "verdict": "Manual",
+    "explain": {
+      "text": "Repetitive phrasing and excessive praise suggest potential manipulation.",
+      "visual": "clip_risk=0.74 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F8W6Q92Z",
+    "url": "https://www.amazon.in/dp/B0F8W6Q92Z",
+    "trust_score": 60,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are positive but lack diversity and contain repetitive phrasing.",
+      "visual": "clip_risk=0.74 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F8W6XR82",
+    "url": "https://www.amazon.in/dp/B0F8W6XR82",
+    "trust_score": 60,
+    "verdict": "Flag",
+    "explain": {
+      "text": "Reviews are positive but lack diversity and contain repetitive phrasing.",
+      "visual": "clip_risk=0.73 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F9475R7D",
+    "url": "https://www.amazon.in/dp/B0F9475R7D",
+    "trust_score": 66,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.78 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F9FB5CQ8",
+    "url": "https://www.amazon.in/dp/B0F9FB5CQ8",
+    "trust_score": 66,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.79 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F9FBVG17",
+    "url": "https://www.amazon.in/dp/B0F9FBVG17",
+    "trust_score": 68,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.74 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0F9FD2KJY",
+    "url": "https://www.amazon.in/dp/B0F9FD2KJY",
+    "trust_score": 67,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.77 brand_flag=False",
+      "rule": 0.1
+    }
+  },
+  {
+    "id": "B0FC31H7VH",
+    "url": "https://www.amazon.in/dp/B0FC31H7VH",
+    "trust_score": 68,
+    "verdict": "Flag",
+    "explain": {
+      "text": "No reviews provided for analysis.",
+      "visual": "clip_risk=0.73 brand_flag=False",
+      "rule": 0.1
+    }
+  }
+]
