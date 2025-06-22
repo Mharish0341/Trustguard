@@ -1,9 +1,44 @@
-# TrustGuard+
-
-A lightweight, end‑to‑end **AI‑powered trust‑and‑safety toolkit** for online marketplaces.  
-Given an existing product listing – or a new one you plan to upload – **TrustGuard+** scores how trustworthy it looks and surfaces the exact red‑flags (fake reviews, brand mismatch, suspicious images, abnormal return rates, …).
+# TrustGuard +
 
 <div align="center">
+  <img alt="TrustGuard+ logo" src="https://github.com/your-org/trustguard/assets/logo.svg" height="95"/>
+  <br/>
+  <b>Instant counterfeit & trust-fraud detection for e-commerce listings</b>
+  <br/><br/>
+</div>
+
+---
+
+## ✨ Overview
+**TrustGuard +** is a drop-in Python toolkit that audits any catalogue export (CSV / API feed) and assigns a transparent **_Trust Score (0–100)_** for every product.  
+It inspects **reviews, images, ratings, returns & brand logos** using lightweight open-source models that run locally or behind your own firewall. Moderators get a JSON report and a Streamlit dashboard – no cloud vendor lock-in.
+
+| Module | Models under the hood | Flags                         |
+|--------|----------------------|-------------------------------|
+| **Review LLM**       | Gemini 1.5 Pro / Flan-T5    | Copy-pasted or bot-generated reviews |
+| **Vision Risk**      | CLIP + BLIP-2 (OPT 2.7 B)  | Stock / unrelated product photos     |
+| **Brand Match**      | PaddleOCR + Flan-T5        | Logo on image ≠ brand in title        |
+| **Rules Engine**     | Simple heuristics          | Rating spikes, abnormal return ratios |
+
+Everything is fused through a weighted aggregator and explained in plain English.
+
+---
+
+```bash
+# 1.  Clone & install
+git clone https://github.com/your-org/trustguard.git
+cd trustguard
+python -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt   # CPU-only by default
+
+# 2.  Run a batch audit
+python scripts/batch_run.py \
+      --csv data/amazon_sneakers_all2.csv \
+      --out reports.json
+
+# 3.  Browse results
+streamlit run dashboard/app.py
+
 
 ```mermaid
 flowchart TD
