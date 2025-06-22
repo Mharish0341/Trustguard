@@ -1,77 +1,155 @@
 # TrustGuard+
 
-TrustGuard+ is a prototype for automated trust scoring of Amazon product listings, identifying potential counterfeits or fraudulent reviews.
+_Prototype toolkit for detecting counterfeit or low‑trust product listings on e‑commerce marketplaces (Amazon focus)._
 
-## Features
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/status-Prototype-orange)
 
-- **Ingestion**: CSV loader grouping by ASIN, aggregates images, reviews, ratings.
-- **Review Fraud Detection**: Uses an LLM to score review authenticity.
-- **Visual Verification**: Combines CLIP and a vision–LLM model (e.g., BLIP-2) to compare titles against images.
-- **Brand Matching**: OCR via PaddleOCR and a Flan-T5-based extractor to verify brand names.
-- **Anomaly Detection**: Heuristics on ratings and returns to flag suspicious patterns.
-- **Scoring & Verdict**: Weighted aggregation into a trust score (0–100) and listable flag.
-- **Dashboard**: Streamlit apps for moderators and sellers.
+---
 
-## Installation
+## ✨ Key Features
+| Module | Purpose |
+|--------|---------|
+| `scripts/batch_run.py` | One‑shot scan of a CSV export of listings. Generates `reports.json`. |
+| Dashboard (`dashboard/app.py`) | Streamlit UI for moderators to triage flagged listings. |
+| `trustguard/ingest.py` | Robust CSV → internal schema loader (handles messy headers, pipes, JSON blobs). |
+| `review_llm.py` | Gemini‑based LLM scoring of review fakery. |
+| `visual_clip.py` | Hybrid CLIP + BLIP‑2 image/title consistency check. |
+| `brand_match.py` | PaddleOCR + Flan‑T5 brand‑on‑image vs. title mismatch detection. |
+| `embed_store.py` | Local FAISS vector store for review similarity search (SBERT). |
+| `rules.py` | Heuristic anomaly score (rating/return ratio, etc.). |
+| `scoring.py` | Weighted aggregation → 0‑100 Trust Score & **listable / needs review** verdict. |
 
-### Requirements
+---
 
-- Python 3.8+
-- `torch`, `transformers`, `clip`, `sentence-transformers`, `faiss-cpu`
-- `paddleocr`, `google-generativeai`
-- `streamlit`
+## ⚙️ Architecture
 
-### Setup
+```
+CSV → ingest ─┐
+              ├─→ review_llm                    ├─→ visual_clip      \            +→ `reports.json`
+              ├─→ brand_match       > aggregate |
+              └─→ rules            /            +→ dashboard
+```
+
+* **LLM:** Gemini 1.5 flash (free‑tier safe‑prompt)  
+* **Image models:** OpenAI CLIP (ViT‑B/32) + Salesforce BLIP‑2 OPT‑2.7B  
+* **OCR:** PaddleOCR (English) → Flan‑T5 brand extractor  
+* **Embeddings:** `all‑MiniLM‑L6‑v2` (384‑d) with FAISS inner‑product index
+
+---
+
+## 🏗 Installation
 
 ```bash
+git clone https://github.com/your‑org/trustguard.git
+cd trustguard
+python -m venv .venv
+source .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## Usage
+**Extra system deps**
 
-### Batch Scoring
+| Component | Requirement |
+|-----------|-------------|
+| PaddleOCR | paddlespeech‑friendly wheels (`pip install paddleocr`) <br> MSVC ++ build tools on Windows |
+| CLIP / BLIP‑2 | CUDA 11+ if you want GPU acceleration (else runs on CPU) |
+| Tesseract | _Not used_ (PaddleOCR replaces it). |
 
-```bash
-python scripts/batch_run.py --csv data/amazon_sneakers_all2.csv --out reports.json
-```
-
-### Moderator Dashboard
-
-```bash
-streamlit run dashboard/app.py
-```
-
-### Seller Dashboard (Single-Product Upload)
+Set your Gemini API key:
 
 ```bash
-streamlit run dashboard/seller_app.py
+export GOOGLE_API_KEY="your‑api‑key"
 ```
 
-## Architecture
+---
 
-The pipeline consists of:
+## 🚀 Quick Start
 
-1. **Ingestion** (`ingest.py`): Reads CSV, groups by ASIN, aggregates metadata.
-2. **Orchestration** (`orchestrator.py`): Invokes each signal module and aggregates results.
-3. **Embedding Store** (`embed_store.py`): Caches and indexes review embeddings with FAISS.
-4. **Review LLM** (`review_llm.py`): Uses an LLM to detect fake reviews.
-5. **Visual Scoring** (`visual_clip.py`): Computes image–title similarity via CLIP and BLIP-2.
-6. **Brand Matching** (`brand_match.py`): Extracts and compares brand text via OCR and LLM.
-7. **Rules** (`rules.py`): Applies simple heuristics on ratings/returns.
-8. **Scoring** (`scoring.py`): Aggregates all signal scores.
+### 1. Run a batch scan
 
-## Configuration
-
-Edit `trustguard/config.py` with your credentials and model settings:
-
-```python
-GOOGLE_API_KEY = "your-google-api-key"
-CLIP_VARIANT = "ViT-B/32"
-EMBED_MODEL = "all-MiniLM-L6-v2"
-LLM_MODEL = "gemini-1.5-pro"
-GEMINI_VISION_MODEL = "gemini-2.5-flash"
+```bash
+python scripts/batch_run.py --csv data/amazon_sneakers_all2.csv --out my_report.json
 ```
 
-## License
+You’ll get a per‑listing object like:
 
-MIT
+```json
+{
+  "asin": "B0D799T6K4",
+  "trust_score": 13,
+  "verdict": false,
+  "breakdown": {
+    "text_score": 0.95,
+    "visual_score": 0.76,
+    "brand_mismatch": false,
+    "rule_score": 0.90
+  },
+  "explanation": { "text": "Identical reviews suggest coordinated fake reviews." }
+}
+```
+
+### 2. Open the moderator dashboard
+
+```bash
+streamlit run dashboard/app.py -- --report my_report.json
+```
+
+---
+
+## 🧮 Scoring Formula
+
+```
+risk_text    = text_score          # 0‑1 from LLM
+risk_visual  = visual_score        # 0‑1 hybrid CLIP/BLIP
+risk_rule    = rule_score          # 0‑1 heuristics
+risk_brand   = 1.0 if brand_mismatch else 0.0
+
+trust = 1 - (0.20*risk_text + 0.20*risk_visual + 0.20*risk_rule + 0.40*risk_brand)
+trust_score = int(trust*100)        # 0‑100
+verdict = trust_score >= 70         # listable?
+```
+
+Weights live in [`trustguard/scoring.py`](trustguard/scoring.py). Adjust them to suit your policy.
+
+---
+
+## 📁 Repo Layout
+
+```
+.
+├─ trustguard/            # Core library
+│   ├─ ingest.py
+│   ├─ review_llm.py
+│   ├─ visual_clip.py
+│   ├─ brand_match.py
+│   ├─ embed_store.py
+│   ├─ rules.py
+│   └─ scoring.py
+├─ scripts/
+│   └─ batch_run.py
+├─ dashboard/
+│   └─ app.py
+└─ requirements.txt
+```
+
+---
+
+## ✍️ Extending
+
+* Plug in a different LLM by swapping `review_llm._query_llm`.
+* Change image risk model: e.g., swap BLIP‑2 for LLaVA.
+* Add new rule heuristics in `rules.py` — the aggregate function will pick them up.
+* Increase OCR languages: `PaddleOCR(lang="en+hi")` etc.
+
+---
+
+## 🪪 License
+
+Released under the **MIT License** — free to use, modify and redistribute with attribution.
+
+---
+
+> _Prototype built for HackOn with Amazon – Season 5 (Trust & Safety theme)._  
+> Maintainer: **Harish M.** • Contributions welcome!
