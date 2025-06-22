@@ -7,30 +7,42 @@ Given an existing product listing – or a new one you plan to upload – **Trus
 
 ```mermaid
 flowchart TD
-    CSV[Seller / Marketplace<br>CSV export] -->|ingest| INGEST[Ingestion<br> & normalisation]
-    subgraph LLM‑Based Analysis
-        REVIEWS[Review LLM<br>(Gemini / Flan‑T5)] --> TXT[Text‑fraud score]
-        RULES[Business rules<br>(ratings, returns)] --> RULESCORE[Anomaly score]
+    %% ────────────────────────── Ingestion ──────────────────────────
+    CSV["CSV export<br/>Seller / Marketplace"] --> INGEST[Ingestion<br/>+ normalisation]
+
+    %% ──────────────────────── LLM-based analysis ───────────────────
+    subgraph "LLM-Based Analysis"
+        REVIEWS["Review LLM<br/>(Gemini / Flan-T5)"] --> TXT["Text-fraud score"]
+        RULES["Business rules<br/>(ratings + returns)"] --> RULESCORE["Anomaly score"]
     end
-    subgraph Vision Analysis
-        CLIP[CLIP similarity] --> CLIPR[Clip risk]
-        BLIP[BLIP‑2 VQA] --> BLIPR[Blip risk]
-        CLIPR --> VISCALC[Visual risk combiner]
+
+    %% ───────────────────────── Vision analysis ─────────────────────
+    subgraph "Vision Analysis"
+        CLIP["CLIP similarity"] --> CLIPR["CLIP risk"]
+        BLIP["BLIP-2 VQA"] --> BLIPR["BLIP risk"]
+        PADDLE["PaddleOCR"] --> OCRTXT["OCR text"]
+        OCRTXT --> BRAND["Brand extractor<br/>(Flan-T5)"]
+        BRAND --> BMFLAG["Brand mismatch?"]
+        CLIPR --> VISCALC["Visual-risk combiner"]
         BLIPR --> VISCALC
-        PADDLE[PaddleOCR] --> OCRTXT[OCR text]
-        BRAND[Brand extractor<br>(Flan‑T5)] --> BMFLAG[Brand mismatch?]
-        OCRTXT --> BRAND
     end
+
+    %% ─────────────── Data flow from ingest to individual blocks ────
     INGEST --> REVIEWS
     INGEST --> RULES
     INGEST --> CLIP
     INGEST --> BLIP
     INGEST --> PADDLE
-    VISCALC --> AGG[Weighted aggregator]
+
+    %% ───────────────────────── Aggregation ─────────────────────────
+    VISCALC --> AGG["Weighted aggregator"]
     TXT --> AGG
     RULESCORE --> AGG
     BMFLAG --> AGG
-    AGG --> REPORT[JSON report<br>+ Streamlit dashboard]
+
+    %% ─────────────────────────── Output ────────────────────────────
+    AGG --> REPORT["JSON report<br/>Streamlit dashboard"]
+
 ```
 
 </div>
