@@ -1,38 +1,20 @@
-"""
-trustguard.embed_store
-FAISS vector DB backed by a local Sentence-Transformer model
-(no external API calls).
-• LFU-caches embeddings.
-• Skips malformed vectors (<64-d).
-• Never mixes dimensions in one FAISS index.
-"""
-
 from __future__ import annotations
-
 import collections
-from typing import List, Tuple
-
+from typing import Any, List, Tuple
 import faiss
 import numpy as np
 from sentence_transformers import SentenceTransformer
+from .config import EMBED_MODEL
 
-# ────────────────────────────────────────────────────────────────
-# Load a light-and-fast SBERT model
-# ────────────────────────────────────────────────────────────────
-# you can swap in any HuggingFace-compatible model here
-_EMBED_MODEL = "all-MiniLM-L6-v2"
-_sbert = SentenceTransformer(_EMBED_MODEL)
+_sbert = SentenceTransformer(EMBED_MODEL)
 
-# ────────────────────────────────────────────────────────────────
-# Tiny LFU cache
-# ────────────────────────────────────────────────────────────────
 class LFUCache:
     def __init__(self, cap: int = 4096):
-        self.cap      = cap
-        self.data     : dict[str, np.ndarray] = {}
-        self.freq     : collections.Counter[str] = collections.Counter()
+        self.cap  = cap
+        self.data : dict[str, np.ndarray]      = {}
+        self.freq : collections.Counter[str]   = collections.Counter()
 
-    def get(self, k: str):
+    def get(self, k: str) -> np.ndarray | None:
         return self.data.get(k)
 
     def put(self, k: str, v: np.ndarray):
@@ -53,41 +35,26 @@ class LFUCache:
 
 _cache = LFUCache()
 
-# ────────────────────────────────────────────────────────────────
-# Embedding helper (local SBERT)
-# ────────────────────────────────────────────────────────────────
 def _embed(texts: List[str]) -> np.ndarray:
-    """
-    Returns a (n × dim) float32 matrix, normalised for cosine similarity.
-    """
     if not texts:
         return np.empty((0, 0), dtype="float32")
-
-    # encode all at once
     vecs = _sbert.encode(
         texts,
         batch_size=32,
         convert_to_numpy=True,
         normalize_embeddings=True
     )
-
-    # sanity-check: MiniLM is 384-dim; any <64-dim is bogus
     if vecs.ndim != 2 or vecs.shape[1] < 64:
         raise ValueError(f"Bad embedding shape: {vecs.shape}")
-
     return vecs.astype("float32")
 
-# ────────────────────────────────────────────────────────────────
-# Dimension-safe FAISS wrapper
-# ────────────────────────────────────────────────────────────────
 class EmbedDB:
     def __init__(self):
-        self.idx : faiss.IndexFlatIP | None = None
-        self.dim : int | None               = None
-        self.text: List[str]                = []
+        self.idx  : faiss.IndexFlatIP | None = None
+        self.dim  : int | None               = None
+        self.text : List[str]                = []
 
     def _reset(self, dim: int):
-        print(f"[EmbedDB] Resetting FAISS & cache to dim={dim}")
         self.idx = faiss.IndexFlatIP(dim)
         self.dim = dim
         _cache.clear()
@@ -97,72 +64,77 @@ class EmbedDB:
         if self.idx is None or dim != self.dim:
             self._reset(dim)
 
-    def add(self, texts: List[str]):
-        if not texts:
+    def add(self, items: List[Any]):
+        if not items:
             return
 
-        # 1) split cache hits vs needs-embedding
         hits, to_embed = [], []
-        for t in texts:
-            v = _cache.get(t)
-            if v is None:
-                to_embed.append(t)
+        for item in items:
+            # coerce to a string key
+            if isinstance(item, str):
+                txt = item
             else:
-                hits.append((t, v))
-                _cache.bump(t)
+                try:
+                    txt = item.get("body") or item.get("text") or repr(item)
+                except Exception:
+                    txt = repr(item)
+            vec = _cache.get(txt)
+            if vec is None:
+                to_embed.append(txt)
+            else:
+                hits.append((txt, vec))
+                _cache.bump(txt)
 
-        # 2) embed misses
-        fresh = []
+        fresh: List[Tuple[str, np.ndarray]] = []
         if to_embed:
             try:
                 vecs = _embed(to_embed)
-                fresh = list(zip(to_embed, vecs))
-                for txt, vec in fresh:
+                for txt, vec in zip(to_embed, vecs):
                     _cache.put(txt, vec)
-            except ValueError as e:
-                print("[EmbedDB]", e)
+                    fresh.append((txt, vec))
+            except ValueError:
+                pass
 
         all_pairs = hits + fresh
         if not all_pairs:
             return
 
-        # 3) pick canonical dim
         canon_dim = all_pairs[0][1].shape[0]
         self._ensure(canon_dim)
 
-        # 4) filter mismatches
-        vecs, txts = [], []
+        valid_vecs, valid_texts = [], []
         for txt, vec in all_pairs:
             if vec.shape[0] == canon_dim:
-                vecs.append(vec); txts.append(txt)
+                valid_vecs.append(vec)
+                valid_texts.append(txt)
 
-        if not vecs:
+        if not valid_vecs:
             return
 
-        # 5) add to FAISS
-        arr = vecs[0].reshape(1, -1) if len(vecs) == 1 else np.vstack(vecs)
+        arr = (valid_vecs[0].reshape(1, -1)
+               if len(valid_vecs) == 1
+               else np.vstack(valid_vecs))
         self.idx.add(arr)
-        self.text.extend(txts)
+        self.text.extend(valid_texts)
 
-    def similar(self, query: str, k: int = 5):
+    def similar(self, query: str, k: int = 5) -> List[Tuple[float, str]]:
         if self.idx is None or self.idx.ntotal == 0:
             return []
 
-        v = _cache.get(query)
-        if v is None:
+        vec = _cache.get(query)
+        if vec is None:
             try:
-                v = _embed([query])[0]
-                _cache.put(query, v)
-            except ValueError as e:
-                print("[EmbedDB]", e)
+                vec = _embed([query])[0]
+                _cache.put(query, vec)
+            except ValueError:
                 return []
 
-        if v.shape[0] != self.dim:
+        if vec.shape[0] != self.dim:
             return []
 
-        D, I = self.idx.search(v.reshape(1, -1), k)
-        return [
-            (float(d), self.text[i])
-            for d, i in zip(D[0], I[0])
-            if 0 <= i < len(self.text)
-        ]
+        D, I = self.idx.search(vec.reshape(1, -1), k)
+        result: List[Tuple[float, str]] = []
+        for dist, idx in zip(D[0], I[0]):
+            if 0 <= idx < len(self.text):
+                result.append((float(dist), self.text[idx]))
+        return result

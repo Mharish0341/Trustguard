@@ -10,3 +10,5 @@ tqdm
 aiohttp
 python-dotenv
 streamlit
+paddlepaddle
+paddleocr

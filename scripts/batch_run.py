@@ -1,17 +1,36 @@
 from pathlib import Path
-import argparse, json, tqdm
-from trustguard.orchestrator import analyse_listing
-from trustguard.ingest import load_listings  # will import relative
+import argparse
+import json
+import tqdm
 
-def main(csv):
-    res = []
-    for lst in tqdm.tqdm(load_listings(Path(csv)), desc="Scanning"):
-        res.append(analyse_listing(lst))
-    Path("reports.json").write_text(json.dumps(res, indent=2))
-    print("✓ Done. reports.json created.")
+from trustguard.orchestrator import analyse_listing
+from trustguard.ingest import load_listings
+
+def main(input_csv: Path, output_json: Path):
+    results = []
+    for listing in tqdm.tqdm(
+        load_listings(input_csv),
+        desc="Scanning listings",
+        unit="listing"
+    ):
+        results.append(analyse_listing(listing))
+
+    output_json.write_text(
+        json.dumps(results, indent=2, ensure_ascii=False)
+    )
+    print(f"✓ Done. Wrote {len(results)} records to {output_json}")
 
 if __name__ == "__main__":
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--csv", required=True)
-    args = ap.parse_args()
-    main(args.csv)
+    parser = argparse.ArgumentParser(
+        description="Run TrustGuard+ on a CSV of listings and emit reports.json"
+    )
+    parser.add_argument(
+        "--csv", type=Path, required=True,
+        help="Path to the input CSV of product listings"
+    )
+    parser.add_argument(
+        "--out", type=Path, default=Path("reports.json"),
+        help="Path for the output JSON report"
+    )
+    args = parser.parse_args()
+    main(args.csv, args.out)

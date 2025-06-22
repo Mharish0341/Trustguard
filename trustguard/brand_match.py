@@ -1,47 +1,85 @@
-from typing import List
+import functools
+import io
 import re
+from typing import Optional
 import numpy as np
+import requests
 from PIL import Image
+from paddleocr import PaddleOCR
+from difflib import SequenceMatcher
+from transformers import pipeline
 
-import easyocr
-from .utils import fetch_image_bytes, bytes_to_pil
-from .config import KNOWN_BRANDS
+_paddle = PaddleOCR(lang="en")
 
-# Load once at import
-# languages=["en"] can be extended if you expect reviews/logos in other scripts
-_reader = easyocr.Reader(["en"], gpu=False)  
+_flan_extractor = pipeline(
+    "text2text-generation",
+    model="google/flan-t5-large",
+    tokenizer="google/flan-t5-large",
+    device=-1
+)
 
-
-def brand_mismatch(image_url: str, title: str) -> bool:
-    """
-    Downloads the image, runs OCR, and returns True if any expected
-    brand (found in the title) is NOT detected in the image text.
-    """
-    # 1) Download & open
+@functools.lru_cache(maxsize=512)
+def _download(url: str) -> Optional[bytes]:
     try:
-        pil_img = bytes_to_pil(fetch_image_bytes(image_url))
-    except Exception:
-        # If download fails, skip OCR check
-        return False
+        r = requests.get(url, timeout=10)
+        return r.content if r.ok else None
+    except:
+        return None
 
-    # 2) Run EasyOCR (returns list of strings)
+def _normalize(s: str) -> str:
+    return re.sub(r"[^a-z0-9]", "", s.lower())
+
+def _fuzzy_ratio(a: str, b: str) -> float:
+    return SequenceMatcher(None, a, b).ratio()
+
+def _ocr_with_paddle(raw: bytes) -> str:
+    img = Image.open(io.BytesIO(raw)).convert("RGB")
+    arr = np.array(img)
     try:
-        ocr_results: List[str] = _reader.readtext(
-            np.array(pil_img), detail=0, paragraph=True
-        )
-    except Exception as e:
-        print(f"[brand_match] EasyOCR error: {e}; skipping check.")
+        results = _paddle.ocr(arr, det=True, rec=True)
+    except:
+        return ""
+    lines = []
+    for item in results:
+        if isinstance(item, dict):
+            txt = item.get("text") or item.get("ocr_text") or ""
+        else:
+            rec = item[1]
+            if isinstance(rec, (list, tuple)):
+                txt = rec[0]
+            else:
+                txt = rec
+        if txt:
+            lines.append(txt)
+    return " ".join(lines)
+
+def _extract_brand_from_text(text: str) -> str:
+    if not text.strip():
+        return ""
+    prompt = (
+        "Extract the brand name from this product image OCR text.\n"
+        "Respond with ONLY the brand, in lowercase, no extra words.\n\n"
+        f"OCR text: {text}"
+    )
+    out = _flan_extractor(prompt, max_new_tokens=8, do_sample=False)
+    gen = out[0]["generated_text"]
+    if ":" in gen:
+        gen = gen.split(":", 1)[1]
+    return gen.strip().lower()
+
+def brand_mismatch(image_url: str, title: str, threshold: float = 0.80) -> bool:
+    title_brand = _normalize(title.split()[0] if title else "")
+    if not title_brand:
         return False
-
-    full_text = " ".join(ocr_results).lower()
-
-    # 3) Check for each brand keyword from the title
-    expected_brands = [b for b in KNOWN_BRANDS if b in title.lower()]
-    for brand in expected_brands:
-        norm = re.sub(r"[^a-z]", "", brand)
-        if norm not in full_text.replace(" ", ""):
-            # Brand mentioned in title but not found via OCR
-            return True
-
-    # No mismatches found
-    return False
+    raw = _download(image_url)
+    if not raw:
+        return False
+    ocr_text = _ocr_with_paddle(raw)
+    ocr_brand = _normalize(ocr_text)
+    if not ocr_brand:
+        extracted = _extract_brand_from_text(ocr_text)
+        ocr_brand = _normalize(extracted)
+    if not ocr_brand:
+        return False
+    sim = _fuzzy_ratio(title_brand, ocr_brand)
+    return sim < threshold
