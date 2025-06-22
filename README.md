@@ -1,7 +1,7 @@
 # TrustGuard +
 
 <div align="center">
-  <img alt="TrustGuard+ logo" src="https://github.com/your-org/trustguard/assets/logo.svg" height="95"/>
+  <img alt="TrustGuard+ logo" src="https://github.com/Mharish0341/trustguard/assets/logo.png" height="95"/>
   <br/>
   <b>Instant counterfeit & trust-fraud detection for e-commerce listings</b>
   <br/><br/>
