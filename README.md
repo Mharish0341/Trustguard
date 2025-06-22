@@ -1,130 +1,77 @@
-TrustGuard+ • Marketplace Trust Analyst
-Moderators & Sellers Dashboard for Amazon Listings
-TrustGuard+ analyzes Amazon product listings to detect potential fraud, counterfeit risk, and anomalous behavior—helping moderators flag suspicious products and informing sellers whether it’s safe to list their items.
+# TrustGuard+
 
-Key Objectives
-Automated Trust Scoring
-Combine textual, visual, brand, and behavioral signals into a single 0–100 trust score.
+TrustGuard+ is a prototype for automated trust scoring of Amazon product listings, identifying potential counterfeits or fraudulent reviews.
 
-Explainable Verdicts
-Provide a clear “Pass/Flag” (or “Listable/Not Listable”) decision along with a signal breakdown and concise rationale.
+## Features
 
-Dual Path: Moderator & Seller
+- **Ingestion**: CSV loader grouping by ASIN, aggregates images, reviews, ratings.
+- **Review Fraud Detection**: Uses an LLM to score review authenticity.
+- **Visual Verification**: Combines CLIP and a vision–LLM model (e.g., BLIP-2) to compare titles against images.
+- **Brand Matching**: OCR via PaddleOCR and a Flan-T5-based extractor to verify brand names.
+- **Anomaly Detection**: Heuristics on ratings and returns to flag suspicious patterns.
+- **Scoring & Verdict**: Weighted aggregation into a trust score (0–100) and listable flag.
+- **Dashboard**: Streamlit apps for moderators and sellers.
 
-Moderator view: Batch-process a CSV of listings and review a queue of flagged products.
+## Installation
 
-Seller view: Upload a single product to get instant feedback on listing safety.
+### Requirements
 
-Features
-Textual Analysis
-Leverage an LLM (e.g. Flan-T5) to score review authenticity (fake vs. genuine).
+- Python 3.8+
+- `torch`, `transformers`, `clip`, `sentence-transformers`, `faiss-cpu`
+- `paddleocr`, `google-generativeai`
+- `streamlit`
 
-Visual Consistency
+### Setup
 
-Compute CLIP similarity between title and images.
-
-BLIP-2 VQA model rates “title→image” match quality for deeper multimodal checks.
-
-Brand Verification
-
-OCR (PaddleOCR) + LLM fallback to extract brand from image.
-
-Fuzzy‐match against title’s brand to spot mislabeling.
-
-Rule‐based Anomalies
-Simple heuristics on 5-star review ratios and return counts to catch unusual patterns.
-
-Embedding DB (Optional)
-Incrementally build a FAISS index of past review embeddings for similarity‐based detective work.
-
-Configurable Weighting
-Fine-tune the relative importance of text, visual, rule, and brand signals (e.g. upweight brand mismatch).
-
-Quickstart
-Clone & Install
-
-bash
-Copy
-Edit
-git clone https://github.com/YourOrg/TrustGuardPlus.git
-cd TrustGuardPlus
+```bash
 pip install -r requirements.txt
-Prepare Listings CSV
-Ensure your CSV has an ASIN column and at least one of: images, image_urls, or img_url; plus reviews_json or review_texts.
+```
 
-Run Batch Analysis (Moderator)
+## Usage
 
-bash
-Copy
-Edit
-python scripts/batch_run.py --csv data/your_listings.csv --out reports.json
-View Dashboard
+### Batch Scoring
 
-bash
-Copy
-Edit
+```bash
+python scripts/batch_run.py --csv data/amazon_sneakers_all2.csv --out reports.json
+```
+
+### Moderator Dashboard
+
+```bash
 streamlit run dashboard/app.py
-Browse the Moderator Queue or switch to the Seller page to upload a single listing for instant verdict.
+```
 
-Tech Stack
-Component	Library / Service
-LLM	Google Gemini / Flan-T5-Large
-Vision Models	OpenAI CLIP, BLIP-2 (OPT-2.7B)
-OCR	PaddleOCR + LLM fallback
-Embeddings	Sentence-Transformers, FAISS
-Dashboard	Streamlit
-Lang & Tools	Python 3.10+, PyTorch, Transformers, NumPy, Pandas, Requests
+### Seller Dashboard (Single-Product Upload)
 
-Architecture
-Ingest:
-Load CSV → normalize headers → group by ASIN → collect images, ratings, returns, review texts.
+```bash
+streamlit run dashboard/seller_app.py
+```
 
-Orchestrator:
-For each listing:
+## Architecture
 
-review_fraud_score → LLM JSON → text_score
+The pipeline consists of:
 
-weighted_visual_risk → CLIP + BLIP-2 → visual_score
+1. **Ingestion** (`ingest.py`): Reads CSV, groups by ASIN, aggregates metadata.
+2. **Orchestration** (`orchestrator.py`): Invokes each signal module and aggregates results.
+3. **Embedding Store** (`embed_store.py`): Caches and indexes review embeddings with FAISS.
+4. **Review LLM** (`review_llm.py`): Uses an LLM to detect fake reviews.
+5. **Visual Scoring** (`visual_clip.py`): Computes image–title similarity via CLIP and BLIP-2.
+6. **Brand Matching** (`brand_match.py`): Extracts and compares brand text via OCR and LLM.
+7. **Rules** (`rules.py`): Applies simple heuristics on ratings/returns.
+8. **Scoring** (`scoring.py`): Aggregates all signal scores.
 
-brand_mismatch → PaddleOCR + Flan-T5 → brand_flag
+## Configuration
 
-anomaly_score → heuristic on ratings/returns → rule_score
+Edit `trustguard/config.py` with your credentials and model settings:
 
-aggregate → weighted sum → trust_score, verdict
+```python
+GOOGLE_API_KEY = "your-google-api-key"
+CLIP_VARIANT = "ViT-B/32"
+EMBED_MODEL = "all-MiniLM-L6-v2"
+LLM_MODEL = "gemini-1.5-pro"
+GEMINI_VISION_MODEL = "gemini-2.5-flash"
+```
 
-Output:
-JSON with ASIN, title, URL, trust_score, boolean verdict, signal breakdown, and short explanations.
+## License
 
-Signal Weighting
-We recommend the following defaults (sum to 1.0):
-
-Signal	Weight
-Text Reviews	0.20
-Visual Match	0.20
-Rule Heuristic	0.20
-Brand Match	0.40
-
-python
-Copy
-Edit
-def aggregate(text_s, visual_s, rule_s, brand_flag, threshold=70):
-    w_text, w_visual, w_rule, w_brand = 0.20, 0.20, 0.20, 0.40
-    risk_brand = 1.0 if brand_flag else 0.0
-    trust_frac = (
-        (1 - text_s)   * w_text
-      + (1 - visual_s) * w_visual
-      + (1 - rule_s)   * w_rule
-      + (1 - risk_brand)* w_brand
-    )
-    score = int(trust_frac * 100)
-    listable = score >= threshold
-    return score, listable
-}
-Future Scope
-Seller-Facing App: Streamlined UI for individual uploads and actionable guidance.
-
-Continuous Learning: Retrain LLMs and vision models on flagged data to improve detection.
-
-Multilingual & Internationalization: Support global marketplaces beyond Amazon India.
-
-Automated Alerts: Slack/email notifications for high-risk listings.
+MIT
