@@ -27,22 +27,6 @@ Everything is fused through a weighted aggregator and explained in plain English
 
 ---
 
-```bash
-# 1.  Clone & install
-git clone https://github.com/your-org/trustguard.git
-cd trustguard
-python -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt   # CPU-only by default
-
-# 2.  Run a batch audit
-python scripts/batch_run.py \
-      --csv data/amazon_sneakers_all2.csv \
-      --out reports.json
-
-# 3.  Browse results
-streamlit run dashboard/app.py
-
-
 ```mermaid
 flowchart TD
     %% ────────────────────────── Ingestion ──────────────────────────
