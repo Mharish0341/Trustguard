@@ -17,7 +17,7 @@
 I built **TrustGuard +** to solve a simple problem: huge marketplaces make it hard to spot fake items and sketchy reviews.  
 The tool takes any product export (CSV or an API dump), checks every listing, and hands back one clear number — a **Trust Score (0-100)**.
 
-In plain English, here’s what happens:
+here’s what happens:
 
 1. **Reads your data** – point it at the CSV you already have.  
 2. **Looks at everything** – reviews, photos, star ratings, return counts, even the logo printed on the product.  
