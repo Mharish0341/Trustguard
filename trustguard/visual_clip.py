@@ -95,7 +95,7 @@ def weighted_visual_risk(title: str, image_urls: List[str],clip_n:  int = 3,blip
             continue
         blip_r = max(blip_r, blip2_vision_risk(title, raw))
 
-    base = 0.5 * clip_r + 0.5 * blip_r
+    base = 0.2 * clip_r + 0.8 * blip_r
     # downscale the risk to make it less strict:
     risk = base * strictness_factor
 
