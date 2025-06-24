@@ -1,0 +1,5138 @@
+[
+  {
+    "asin": "B0D8L9J4J8",
+    "title": "YOHO Kite Men’s Stylish Versatile Breathable Slip-On Sneakers (SoS)",
+    "product_url": "https://www.amazon.in/dp/B0D8L9J4J8",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4777296513319016,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Conflicting reviews; significant negative sentiment."
+    }
+  },
+  {
+    "asin": "B0DVLRT6SZ",
+    "title": "OVERDRIVE Men's Casual Sneaker Shoes with Synthetic Upper Lightweight Comfortable Mid Top Sneaker Shoes for Men's & Boy's",
+    "product_url": "https://www.amazon.in/dp/B0DVLRT6SZ",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4786820188164711,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0F5BMD2NY",
+    "title": "Neeman's Cloud Knit Sneakers for Men | Lightweight, Breathable & Supportive | Recycled Knit Upper with Cushioned Insole & Flexible EVA Sole",
+    "product_url": "https://www.amazon.in/dp/B0F5BMD2NY",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.4765101820230484,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0FC31H7VH",
+    "title": "Neeman's Ease Walk Snug Sneakers for Men | Breathable Knit, Stretchable Fit & Cushioned Comfort for Everyday Walking",
+    "product_url": "https://www.amazon.in/dp/B0FC31H7VH",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4732665777206421,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0DXVGMDM1",
+    "title": "ASIAN Men CHICAGO-11 Stylish Casual Mid Top Sneakers and Trendy Shoes with Laces for Men & Boys | Perfect for Wearing to Outings, and Comfortable All-Day Use, Stylish and Durable",
+    "product_url": "https://www.amazon.in/dp/B0DXVGMDM1",
+    "trust_score": 78,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.5,
+      "visual_score": 0.4721658766269684,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "rate-limit fallback"
+    }
+  },
+  {
+    "asin": "B0BSLKJPXV",
+    "title": "Puma Unisex Adult Smashic Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0BSLKJPXV",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47548424601554873,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and templating."
+    }
+  },
+  {
+    "asin": "B0D5XWVY6Q",
+    "title": "ASIAN Men's MEXICO-11 Casual Sneaker Shoes with Synthetic Upper Lightweight Comfortable Mid Top Sneaker Shoes for Men's & Boy's",
+    "product_url": "https://www.amazon.in/dp/B0D5XWVY6Q",
+    "trust_score": 82,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.3,
+      "visual_score": 0.4770523846149445,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant inconsistencies in sentiment and some repetitive phrasing."
+    }
+  },
+  {
+    "asin": "B0DFWR2HTN",
+    "title": "ATHCO Mens Vibe Memory Foam Comfort Sneaker Shoes|Gym|Jogging|Sneaker|Athletic|Laceup|Casual|ExtraSoft",
+    "product_url": "https://www.amazon.in/dp/B0DFWR2HTN",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4771408721804619,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant phrase overlap across reviews."
+    }
+  },
+  {
+    "asin": "B0DPG91FHD",
+    "title": "Plaeto Classic Sneakers for Men | Comfortable Shoes | Tilt Lacing | Relaxed Toe Room | Versatile | Everyday wear",
+    "product_url": "https://www.amazon.in/dp/B0DPG91FHD",
+    "trust_score": 82,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.3,
+      "visual_score": 0.4786404222249985,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Some reviews are suspiciously similar."
+    }
+  },
+  {
+    "asin": "B0CRB6C3HY",
+    "title": "BIGBOON Men's Ethnic Shoes in Sport Style in",
+    "product_url": "https://www.amazon.in/dp/B0CRB6C3HY",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47546423822641376,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap across reviews."
+    }
+  },
+  {
+    "asin": "B0DG5D1MQ5",
+    "title": "Symbol Premium Mens Smart Casual Extralight Leather Sneakers (Extralight Sole)",
+    "product_url": "https://www.amazon.in/dp/B0DG5D1MQ5",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47563306987285614,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Repetitive phrasing and promotional language across multiple reviews."
+    }
+  },
+  {
+    "asin": "B0CJQ87Z15",
+    "title": "Centrino Casual Shoe for Men | Comfortable Cushioned Insole | Stylish Sneakers | Lace-Up Design | Casual Outfits | for Boys & Men 6581",
+    "product_url": "https://www.amazon.in/dp/B0CJQ87Z15",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.47817420661449433,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0F4DFTNSR",
+    "title": "Campus Men Roar Sneakers",
+    "product_url": "https://www.amazon.in/dp/B0F4DFTNSR",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47374474406242373,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant phrase repetition across reviews."
+    }
+  },
+  {
+    "asin": "B0C1VLSK13",
+    "title": "Centrino Men's Casual Shoes Fashion Lace Up Non-Slip Flats Trendy Stylish All Day Comfortable Lightweight Sneakers with Extra Comfort on Heel Black Casual Shoe for Mens (6314)",
+    "product_url": "https://www.amazon.in/dp/B0C1VLSK13",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47798487544059753,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies in sentiment."
+    }
+  },
+  {
+    "asin": "B0DJD6VH94",
+    "title": "ASIAN Men's TARZAN-04 Casual Sneaker Shoes with Synthetic Upper Lightweight Comfortable Mid Top Sneaker Shoes for Men's & Boy's",
+    "product_url": "https://www.amazon.in/dp/B0DJD6VH94",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.4785500198602677,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review inconsistencies; some positive, some negative, with some templated language."
+    }
+  },
+  {
+    "asin": "B0F4DGR13F",
+    "title": "Campus Men Pod Sneakers",
+    "product_url": "https://www.amazon.in/dp/B0F4DGR13F",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47887473404407505,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant repetitive phrasing across reviews."
+    }
+  },
+  {
+    "asin": "B0C1VLD461",
+    "title": "Centrino Men's Casual Shoes Fashion Lace Up Non-Slip Flats Trendy Stylish All Day Comfortable Lightweight Sneakers with Extra Comfort on Heel Blue Casual Shoe for Mens (6313)",
+    "product_url": "https://www.amazon.in/dp/B0C1VLD461",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47312594950199127,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies in sentiment."
+    }
+  },
+  {
+    "asin": "B0F2454DDN",
+    "title": "ASIAN Men NEXUS-01 Stylish Casual Mid Top Sneaker with minimalistic looks and trendy design with laces for Men & Boys | Perfect for wearing to Outings, and Comfortable All-Day Use, Stylish and Durable",
+    "product_url": "https://www.amazon.in/dp/B0F2454DDN",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.4694137215614319,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0D8L98NXR",
+    "title": "YOHO Kite Men’s Stylish Versatile Breathable Slip-On Sneakers (SoS)",
+    "product_url": "https://www.amazon.in/dp/B0D8L98NXR",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47555310279130936,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Conflicting reviews; significant negative sentiment."
+    }
+  },
+  {
+    "asin": "B0DK7HVJ4S",
+    "title": "ASIAN Men MEXICO-01 Stylish Casual Mid-Top Sneaker and Trendy Shoes with Laces for Men & Boys, Perfect for Wearing to Outings, and Comfortable All-Day Use, Lightweight and Durable",
+    "product_url": "https://www.amazon.in/dp/B0DK7HVJ4S",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4711631953716278,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies in sentiment."
+    }
+  },
+  {
+    "asin": "B0DWXQR9MB",
+    "title": "ASIAN Men CHICAGO-02N Stylish Casual Mid Top Sneakers and Trendy Shoes with Laces for Men & Boys | Perfect for Wearing to Outings, and Comfortable All-Day Use, Stylish and Durable-CHICAGO-02N$",
+    "product_url": "https://www.amazon.in/dp/B0DWXQR9MB",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.474842780828476,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0DRVW6TK4",
+    "title": "Neeman's The Urban Riffs Sneakers for Men | Comfortable and Lightweight Casual Lace Up Shoes for Boys | All Day Wear | Stylish and Trendy | Walking Sneakers",
+    "product_url": "https://www.amazon.in/dp/B0DRVW6TK4",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4770314753055573,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and templating detected."
+    }
+  },
+  {
+    "asin": "B0DWSXR82C",
+    "title": "ASIAN Men CHICAGO-01 Stylish Casual Mid Top Sneakers and Trendy Shoes with Laces for Men & Boys | Perfect for Wearing to Outings, and Comfortable All-Day Use, Stylish and Durable-CHICAGO-01$P",
+    "product_url": "https://www.amazon.in/dp/B0DWSXR82C",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.4767802432179451,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0DSC6RKRF",
+    "title": "Cruiser Chunky Sneaker for Men | Bold & Stylish Design | Lightweight & Comfortable | Gymwear & Casual Outfits | Durable Footwear (2630)",
+    "product_url": "https://www.amazon.in/dp/B0DSC6RKRF",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4759304791688919,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap and repetitive phrasing across reviews."
+    }
+  },
+  {
+    "asin": "B0BYZRFFSR",
+    "title": "Neeman's Urban Casual Sneakers for Men | Comfortable and Lightweight Casual Lace Up Shoes for Boys | All Day Wear | Stylish and Trendy | Walking Sneakers | Cotton Shoes",
+    "product_url": "https://www.amazon.in/dp/B0BYZRFFSR",
+    "trust_score": 84,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.2,
+      "visual_score": 0.47729026675224306,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap and inconsistent sentiment."
+    }
+  },
+  {
+    "asin": "B0DY1Q7DVM",
+    "title": "Boldfit Sneakers for Man Lightweight Shoes for Men Comfortable Sneakers for Men Air Mesh Casual Shoes for Men Soft Cushion Insole Casual Sneakers for Men Lace Up Men Casual Shoes Boys Shoe Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0DY1Q7DVM",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4791590735316277,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap across multiple reviews."
+    }
+  },
+  {
+    "asin": "B0DQP5GDS8",
+    "title": "hummel Classic Verve Casual Suede Sneaker for Men Lightweight with Synthetic Suede Enhanced Comfort Cushioned Insole and Slip-Resistance Work and Play Business Casual Shoes",
+    "product_url": "https://www.amazon.in/dp/B0DQP5GDS8",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4754750654101372,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and templating detected."
+    }
+  },
+  {
+    "asin": "B0D1G551RG",
+    "title": "YOHO Men's Freestep Spacious And Casual Slip On Shoes | Comfortable For Long Hours Of Walking | Outperforms Memory Foam | Arch Support Insole",
+    "product_url": "https://www.amazon.in/dp/B0D1G551RG",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.47696609497070314,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap and similar phrasing across reviews."
+    }
+  },
+  {
+    "asin": "B085WY2Z9N",
+    "title": "AADI Mens Mrj1951 Sneaker",
+    "product_url": "https://www.amazon.in/dp/B085WY2Z9N",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47355824410915376,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies."
+    }
+  },
+  {
+    "asin": "B09WLMCYLR",
+    "title": "ASIAN Men's Wonder Sports Running,Walking & Gym Shoes with Casual Sneaker Lightweight Lace-Up Shoes for Men's Delta-20",
+    "product_url": "https://www.amazon.in/dp/B09WLMCYLR",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4771054357290268,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant repetitive phrasing and inconsistent sentiment."
+    }
+  },
+  {
+    "asin": "B0DZ28HWSG",
+    "title": "Cruiser White Sneaker for Men | Lightweight & Comfortable | Stylish Lace-Up Casual Footwear with Cushioned Insole |Classic Canvas Sneakers for Effortless Style | Perfect for Versatile Outfits (2632)",
+    "product_url": "https://www.amazon.in/dp/B0DZ28HWSG",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47926689088344576,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and templating."
+    }
+  },
+  {
+    "asin": "B0DYYBK84Z",
+    "title": "Campus Men Brisk Sneakers",
+    "product_url": "https://www.amazon.in/dp/B0DYYBK84Z",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4746299356222153,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap across reviews."
+    }
+  },
+  {
+    "asin": "B0D842QTMN",
+    "title": "Cruiser Mens Sneaker | Comfort & Style with Soft Cushioned Insole | Trendy Lace-Up Design for Casual Outfits (2606)",
+    "product_url": "https://www.amazon.in/dp/B0D842QTMN",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.47226661443710327,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap across multiple reviews."
+    }
+  },
+  {
+    "asin": "B0DNR1R8K6",
+    "title": "Neeman's Trendy Casual Sneakers for Men | Lightweight Upper & Dual Density EVA Lightweight Outsole for All Day Comfort and Flexible",
+    "product_url": "https://www.amazon.in/dp/B0DNR1R8K6",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.4775882139801979,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review inconsistencies; some positive, some negative."
+    }
+  },
+  {
+    "asin": "B09SVJKDY6",
+    "title": "Neeman's ReLive Knit Casual Lace Up Sneakers for Men | Trendy, Lightweight, Breathable Stylish Shoes | Padded Insole for Extra Support | Walking, Travelling, Outdoor Shoes for Men",
+    "product_url": "https://www.amazon.in/dp/B09SVJKDY6",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.4797268569469452,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant repetitive phrasing and positive sentiment bias."
+    }
+  },
+  {
+    "asin": "B0DWK3G1PL",
+    "title": "Puma Men Lace Up Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0DWK3G1PL",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.4742527395486832,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0DQQ87P9N",
+    "title": "Cruiser Mens Comfort & Style with Soft Cushioned Insole | Lightweight Comfort Classic Canvas Sneakers for Everyday Wear | Trendy Lace-Up Design for Casual Outfits (2629)",
+    "product_url": "https://www.amazon.in/dp/B0DQQ87P9N",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4760148584842682,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap across multiple reviews."
+    }
+  },
+  {
+    "asin": "B0D7CRMMRN",
+    "title": "ATHCO Mens Wind Memory Foam Comfort Casual Sneaker Shoes|Laceup|Slip Resistant|Lightweight|Dailyuse|ExtraSoft",
+    "product_url": "https://www.amazon.in/dp/B0D7CRMMRN",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.47568729370832447,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Some reviews show templated language; inconsistencies in sentiment and language."
+    }
+  },
+  {
+    "asin": "B0DCGHJ1BM",
+    "title": "Campus Men Og-27 Sneakers",
+    "product_url": "https://www.amazon.in/dp/B0DCGHJ1BM",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.47477644085884096,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and templating detected."
+    }
+  },
+  {
+    "asin": "B0F4DK1D3R",
+    "title": "Campus Women Haven Sneakers",
+    "product_url": "https://www.amazon.in/dp/B0F4DK1D3R",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47749056518077854,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap across multiple reviews."
+    }
+  },
+  {
+    "asin": "B0D7QBBYPQ",
+    "title": "ASIAN Men's TARZAN-11 Casual Sneaker Shoes with Synthetic Upper Lightweight Comfortable Mid Top Sneaker Shoes for Men's & Boy's",
+    "product_url": "https://www.amazon.in/dp/B0D7QBBYPQ",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.4727950066328049,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and templating."
+    }
+  },
+  {
+    "asin": "B0DK8ZB75Q",
+    "title": "Liberty Leap7x NICOLAS-1E Lacing Casual Sneakers for Men with EVA Sole|PVC Upper|Memory Foam Insole|Stylish & Comfortable|Breathable, Lightweight & Flexibility|Shock Absorption",
+    "product_url": "https://www.amazon.in/dp/B0DK8ZB75Q",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4725759595632553,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0CSFRWZ2H",
+    "title": "The Souled Store All Day Classics 2.0 Men and Boys Lace-Up Low Top Sneakers Sneaker Shoes Comfort Sneakers Printed Abstract Color Colours Bright All Season Party Casual Day Out Outing Low Top",
+    "product_url": "https://www.amazon.in/dp/B0CSFRWZ2H",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4752967387437821,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0DVYWPN8D",
+    "title": "Campus Men Harmony Sneakers",
+    "product_url": "https://www.amazon.in/dp/B0DVYWPN8D",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.4729145407676697,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap across reviews."
+    }
+  },
+  {
+    "asin": "B0D8L96L8T",
+    "title": "YOHO Kite Men’s Stylish Versatile Breathable Slip-On Sneakers (SoS)",
+    "product_url": "https://www.amazon.in/dp/B0D8L96L8T",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47542129755020146,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Conflicting reviews; significant negative sentiment."
+    }
+  },
+  {
+    "asin": "B0F5BX3T2D",
+    "title": "Cruiser Sneaker for Men | Lightweight & Comfortable | Stylish Lace-Up Casual Footwear with Cushioned Insole | Perfect for Versatile Outfits 2641",
+    "product_url": "https://www.amazon.in/dp/B0F5BX3T2D",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47294304966926576,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant repetitive phrasing across reviews."
+    }
+  },
+  {
+    "asin": "B0CRHXR7QX",
+    "title": "Neeman's Tread Basics Shoes for Men | Walking Shoes | Casual Sneakers for Men",
+    "product_url": "https://www.amazon.in/dp/B0CRHXR7QX",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.47643970102071764,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review inconsistencies; some positive, some negative."
+    }
+  },
+  {
+    "asin": "B0F389JM3T",
+    "title": "ATHCO Mens Og Memory Foam Comfort Casual Sneaker Shoes|Laceup|Slip Resistant|Lightweight|Dailyuse|ExtraSoft",
+    "product_url": "https://www.amazon.in/dp/B0F389JM3T",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4761178508400917,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap across multiple reviews."
+    }
+  },
+  {
+    "asin": "B0DQJHVZR5",
+    "title": "ZERMA Sneaker & Shoe Cleaner Wipes - 80 PCS PER Pack, Portable Shoe Wipes, Remove Dirt & Stains Quickly. These Disposable Shoe Cleaning Wipes Can Be Used in All Types of Footwear. White",
+    "product_url": "https://www.amazon.in/dp/B0DQJHVZR5",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4792528554797173,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap across multiple reviews."
+    }
+  },
+  {
+    "asin": "B09B2HXSKB",
+    "title": "Centrino Mens 6712 Running Shoes Ultra Lightweight Breathable Comfortable Walking Shoes Casual Fashion Cushioned Sneakers Mesh Workout Shoes",
+    "product_url": "https://www.amazon.in/dp/B09B2HXSKB",
+    "trust_score": 82,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.3,
+      "visual_score": 0.47866115868091585,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Mixed sentiment and some repetitive phrasing, but no strong template detected."
+    }
+  },
+  {
+    "asin": "B0F6N23PQ7",
+    "title": "ASIAN Men's Mexico-02 Casual Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0F6N23PQ7",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47667517960071565,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review inconsistencies and repetition."
+    }
+  },
+  {
+    "asin": "B0BM6VK1L2",
+    "title": "Bacca Bucci Men Lace Up Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0BM6VK1L2",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.47886926084756853,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Conflicting reviews; some highly positive, others negative and detailed."
+    }
+  },
+  {
+    "asin": "B0DFLYFJ4B",
+    "title": "Centrino Casual Shoe for Men | Cushioned Insole Provide Comfort| Stylish Sneaker Shoe | Lace-Up Design | Perfect for Casual Outfits for Boys & Men (6821)",
+    "product_url": "https://www.amazon.in/dp/B0DFLYFJ4B",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.48071496784687046,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies in sentiment."
+    }
+  },
+  {
+    "asin": "B0F5BTN9D8",
+    "title": "Cruiser Sneaker for Men | Lightweight & Comfortable | Stylish Lace-Up Casual Footwear with Cushioned Insole | Perfect for Versatile Outfits 2642-1",
+    "product_url": "https://www.amazon.in/dp/B0F5BTN9D8",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4790232360363007,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant phrase repetition across reviews."
+    }
+  },
+  {
+    "asin": "B0F18DWTVF",
+    "title": "Campus Men Og-41 Sneakers",
+    "product_url": "https://www.amazon.in/dp/B0F18DWTVF",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4708887279033661,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap across reviews."
+    }
+  },
+  {
+    "asin": "B0DZNXXYD7",
+    "title": "Puma Mens Astroforge Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0DZNXXYD7",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.47240575253963474,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0D6VZHX4F",
+    "title": "Puma Unisex Adult Smash Buck Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0D6VZHX4F",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.47758295089006425,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0DFLXQ52S",
+    "title": "Centrino Casual Shoe for Men | Cushioned Insole Provide Comfort| Stylish Sneaker Shoe | Lace-Up Design | Perfect for Casual Outfits for Boys & Men (6820)",
+    "product_url": "https://www.amazon.in/dp/B0DFLXQ52S",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4794568553566933,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text overlap detected."
+    }
+  },
+  {
+    "asin": "B0CY6TGFHW",
+    "title": "hummel Firefly Casual Sneaker Lightweight Lace-up Shoes for Men",
+    "product_url": "https://www.amazon.in/dp/B0CY6TGFHW",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.47367194294929504,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Conflicting reviews; some express quality concerns."
+    }
+  },
+  {
+    "asin": "B0CRB4MK73",
+    "title": "BIGBOON Men's Ethnic Shoes in Sport Style in",
+    "product_url": "https://www.amazon.in/dp/B0CRB4MK73",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47567659318447114,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap across reviews."
+    }
+  },
+  {
+    "asin": "B0C65B25DT",
+    "title": "Legwork Capri Casual Leather Sneaker for Men & Boys",
+    "product_url": "https://www.amazon.in/dp/B0C65B25DT",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4792878091335297,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0DZ31DD4H",
+    "title": "Centrino Sneaker for Men | Comfort & Style with Soft Cushioned Insole | Trendy Lace-Up Design for Casual Outfits (9201)",
+    "product_url": "https://www.amazon.in/dp/B0DZ31DD4H",
+    "trust_score": 70,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.9,
+      "visual_score": 0.47246420085430146,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap across multiple reviews."
+    }
+  },
+  {
+    "asin": "B0DG56VTRQ",
+    "title": "Symbol Premium Mens Smart Casual Extralight Leather Sneakers (Extralight Sole)",
+    "product_url": "https://www.amazon.in/dp/B0DG56VTRQ",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47563306987285614,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Repetitive phrasing and promotional language across multiple reviews."
+    }
+  },
+  {
+    "asin": "B0DG5B9R92",
+    "title": "Symbol Premium Mens Smart Casual Leather Sneakers",
+    "product_url": "https://www.amazon.in/dp/B0DG5B9R92",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4713890254497528,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap across reviews."
+    }
+  },
+  {
+    "asin": "B0D7CP746C",
+    "title": "ATHCO Mens Wind Memory Foam Comfort Casual Sneaker Shoes|Laceup|Slip Resistant|Lightweight|Dailyuse|ExtraSoft",
+    "product_url": "https://www.amazon.in/dp/B0D7CP746C",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.4690321743488312,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Some reviews show templated language; inconsistencies in sentiment and language."
+    }
+  },
+  {
+    "asin": "B0DTTKSCV9",
+    "title": "YOHO Trip Sneakers for Men | Stylish Casual Shoes with Elastic Laces | Comfortable, Stretchable & Ultra-Lightweight | Premium Breathable Mesh Fabric",
+    "product_url": "https://www.amazon.in/dp/B0DTTKSCV9",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4772639632225037,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and templating detected."
+    }
+  },
+  {
+    "asin": "B0BG9C3NNV",
+    "title": "Bacca Bucci Men Lace Up Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0BG9C3NNV",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.47886926084756853,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Conflicting reviews; some highly positive, others negative and detailed."
+    }
+  },
+  {
+    "asin": "B0DGCSFP9V",
+    "title": "Centrino Casual Shoe for Men | Cushioned Insole | Stylish Shoe |Sporty Lace-Up Design| Sneakers for Boys & Men (6832)",
+    "product_url": "https://www.amazon.in/dp/B0DGCSFP9V",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4783615037798882,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review inconsistencies; some positive, some extremely negative."
+    }
+  },
+  {
+    "asin": "B0F8W5L74K",
+    "title": "LOUIS STITCH All Day Wear Lace-Ups for Men | Comfortable Lace-Ups | LSP-SNK-AVI-Lace-Ups",
+    "product_url": "https://www.amazon.in/dp/B0F8W5L74K",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4728150993585587,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and templating."
+    }
+  },
+  {
+    "asin": "B0F9475R7D",
+    "title": "Boldfit Zeon Sneakers for Man Lightweight Shoes Men Comfortable Air Mesh Casual Soft Cushion Lace Up",
+    "product_url": "https://www.amazon.in/dp/B0F9475R7D",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4782029271125794,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0CJQ8XSNP",
+    "title": "Centrino Men's Casual Sneaker Shoes | Lightweight Sneakers | Trendy Lace-up Design | Soft Cushioned Insole | Stylish & Comfortable (6574)",
+    "product_url": "https://www.amazon.in/dp/B0CJQ8XSNP",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4713930457830429,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies in sentiment."
+    }
+  },
+  {
+    "asin": "B0DZ2Z3R3C",
+    "title": "Centrino Sneaker for Men | Comfort & Style with Soft Cushioned Insole | Trendy Lace-Up Design for Casual Outfits (9201)",
+    "product_url": "https://www.amazon.in/dp/B0DZ2Z3R3C",
+    "trust_score": 70,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.9,
+      "visual_score": 0.4732535392045975,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap across multiple reviews."
+    }
+  },
+  {
+    "asin": "B0DG5G651R",
+    "title": "Symbol Premium Mens Smart Casual Leather Sneakers",
+    "product_url": "https://www.amazon.in/dp/B0DG5G651R",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4746643960475922,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap across reviews."
+    }
+  },
+  {
+    "asin": "B0DSC6L943",
+    "title": "Cruiser Chunky Sneaker for Men | Bold & Stylish Design | Lightweight & Comfortable | Gymwear & Casual Outfits | Durable Footwear (2630)",
+    "product_url": "https://www.amazon.in/dp/B0DSC6L943",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4744818598031998,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap and repetitive phrasing across reviews."
+    }
+  },
+  {
+    "asin": "B0CQ57196R",
+    "title": "Puma Men Traverse Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0CQ57196R",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.478302925825119,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Negative reviews show significant language overlap."
+    }
+  },
+  {
+    "asin": "B0F5BWGV3Y",
+    "title": "Cruiser Mens 2533 Sneaker for Men | Lightweight & Comfortable | Stylish Lace-Up Casual Footwear with Cushioned Insole | Perfect for Versatile Outfits (2533)",
+    "product_url": "https://www.amazon.in/dp/B0F5BWGV3Y",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47896679639816286,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies in sentiment."
+    }
+  },
+  {
+    "asin": "B0DMFGFFL2",
+    "title": "NARKI Men's Synthetic Shoes with Memory Foam Insole | Cloth Inner & Airmix Sole for Lightweight, All-Day Comfort_Article_N04",
+    "product_url": "https://www.amazon.in/dp/B0DMFGFFL2",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47722743153572084,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap across reviews suggests potential manipulation."
+    }
+  },
+  {
+    "asin": "B0DNKSGF2G",
+    "title": "Puma Men RBD Game Court Z Low Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0DNKSGF2G",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4707701623439789,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0DGCYDH7K",
+    "title": "Centrino Casual Shoe for Men | Cushioned Insole | Stylish Shoe |Sporty Lace-Up Design| Sneakers for Boys & Men (6830)",
+    "product_url": "https://www.amazon.in/dp/B0DGCYDH7K",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.4719575494527817,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review inconsistencies and some suspiciously generic positive feedback."
+    }
+  },
+  {
+    "asin": "B0CBPZXVDP",
+    "title": "Puma Men Asteride Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0CBPZXVDP",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.4761972278356552,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Conflicting sentiment and some repetitive phrasing."
+    }
+  },
+  {
+    "asin": "B0CKYWFRS2",
+    "title": "Puma Men Levitex Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0CKYWFRS2",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.47059886455535893,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0D31PTF4P",
+    "title": "Neeman's Mens Canvas Wanderers Sneakers | Boat Shoes | Comfortable, Flexible & Breathable",
+    "product_url": "https://www.amazon.in/dp/B0D31PTF4P",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4811814323067665,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review inconsistencies; some positive, some negative, and templated language."
+    }
+  },
+  {
+    "asin": "B0BVZQSQP8",
+    "title": "Campus Men Og-04 Sneakers",
+    "product_url": "https://www.amazon.in/dp/B0BVZQSQP8",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.4758953839540482,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review variation; some negative sentiment."
+    }
+  },
+  {
+    "asin": "B0B4KC164V",
+    "title": "SPARX Mens Sm 9039 Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0B4KC164V",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.47912890166044236,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Some reviews are suspiciously similar; positive sentiment is inconsistent."
+    }
+  },
+  {
+    "asin": "B0DGCPRZRH",
+    "title": "Centrino Casual Shoe for Men | Cushioned Insole | Stylish Shoe |Sporty Lace-Up Design| Sneakers for Boys & Men (6831)",
+    "product_url": "https://www.amazon.in/dp/B0DGCPRZRH",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.473510080575943,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies in sentiment."
+    }
+  },
+  {
+    "asin": "B0DT42Q8HY",
+    "title": "Buckaroo Paradox Premium Vegan Synthetic Casual Shoes for Men",
+    "product_url": "https://www.amazon.in/dp/B0DT42Q8HY",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.47274088859558105,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B09PLDBT3T",
+    "title": "Centrino Mens 6004 Sneaker",
+    "product_url": "https://www.amazon.in/dp/B09PLDBT3T",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4759925052523613,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "multiple reports of damage and inconsistent sentiment"
+    }
+  },
+  {
+    "asin": "B0F3JJF1CW",
+    "title": "Puma Mens X-ray Astralis Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0F3JJF1CW",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.47467547059059145,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0DPG8YMF4",
+    "title": "Plaeto Classic Sneakers for Men | Comfortable Shoes | Tilt Lacing | Relaxed Toe Room | Versatile | Everyday wear",
+    "product_url": "https://www.amazon.in/dp/B0DPG8YMF4",
+    "trust_score": 82,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.3,
+      "visual_score": 0.4786404222249985,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Some reviews are suspiciously similar."
+    }
+  },
+  {
+    "asin": "B0DP55QGKJ",
+    "title": "Campus Men Og-32 Sneakers",
+    "product_url": "https://www.amazon.in/dp/B0DP55QGKJ",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4778451427817345,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies in sentiment."
+    }
+  },
+  {
+    "asin": "B0CTZPQ1VR",
+    "title": "Puma Men Melanite Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0CTZPQ1VR",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.46975944042205814,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review inconsistencies and some negative sentiment."
+    }
+  },
+  {
+    "asin": "B0BZSVY2J3",
+    "title": "Bacca Bucci Men Lace Up Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0BZSVY2J3",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4727393090724945,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies in sentiment."
+    }
+  },
+  {
+    "asin": "B0DVYQ5VSK",
+    "title": "Campus Women Ogl-13 Sneakers",
+    "product_url": "https://www.amazon.in/dp/B0DVYQ5VSK",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4780633419752121,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant overlap in phrasing and sentiment across reviews."
+    }
+  },
+  {
+    "asin": "B0CQRC5MDN",
+    "title": "Puma Men Wired Run Pure Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0CQRC5MDN",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.46987420320510864,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies in sentiment."
+    }
+  },
+  {
+    "asin": "B0F269R7BS",
+    "title": "Bacca Bucci Men Suede Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0F269R7BS",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.47302199602127076,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0DR95FV1B",
+    "title": "Cruiser Mens Sneaker Comfort & Style with Soft Cushioned Insole | Classic Canvas Sneakers for Effortless Style | Trendy Lace-Up Design for Casual Outfits (9922)",
+    "product_url": "https://www.amazon.in/dp/B0DR95FV1B",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47212860286235814,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant repetitive phrasing and inconsistent sentiment."
+    }
+  },
+  {
+    "asin": "B0F4DMFPF1",
+    "title": "Campus Women Grit Sneakers",
+    "product_url": "https://www.amazon.in/dp/B0F4DMFPF1",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4750861138105393,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant repetitive phrasing across reviews."
+    }
+  },
+  {
+    "asin": "B0CZPR266S",
+    "title": "Puma Unisex Adult BMW MMS Neo Cat 2.0 Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0CZPR266S",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.47736334651708606,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant repetitive phrasing and inconsistent sentiment."
+    }
+  },
+  {
+    "asin": "B0DFLZ5M51",
+    "title": "Centrino Casual Shoe for Men | Cushioned Insole Provide Comfort| Stylish Sneaker Shoe | Lace-Up Design | Perfect for Casual Outfits for Boys & Men (6825)",
+    "product_url": "https://www.amazon.in/dp/B0DFLZ5M51",
+    "trust_score": 82,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.3,
+      "visual_score": 0.4771941274404526,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Mixed reviews; some highly positive, some extremely negative."
+    }
+  },
+  {
+    "asin": "B0D4ZQ2BDP",
+    "title": "AVANT Men's Thar Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0D4ZQ2BDP",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47141767740249635,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and templating."
+    }
+  },
+  {
+    "asin": "B0CT8BQHWC",
+    "title": "Puma Kids RSX Trash Talk PS Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0CT8BQHWC",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4775961920619011,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0D841CHWY",
+    "title": "Cruiser Mens Sneaker | Comfort & Style with Soft Cushioned Insole |Stylish Casual Sneakers for Men | Trendy Lace-Up Design for Casual Outfits (2608)",
+    "product_url": "https://www.amazon.in/dp/B0D841CHWY",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.48080720305442814,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Conflicting sentiment and some templated language."
+    }
+  },
+  {
+    "asin": "B0BVQQ1JD8",
+    "title": "Bersache Lightweight Sports Shoes Sole | Comfortable Outdoor, Casual, Walking, Gym, Training, Trekking and Hiking Shoes for Men",
+    "product_url": "https://www.amazon.in/dp/B0BVQQ1JD8",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4802961587905884,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies."
+    }
+  },
+  {
+    "asin": "B0DQDL3CR5",
+    "title": "Bacca Bucci Men Lace Up Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0DQDL3CR5",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.47690668404102327,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0C9M368ZH",
+    "title": "Puma Unisex Adult AllDay Active Slipon Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0C9M368ZH",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4742642492055893,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review inconsistencies; some positive, some report early wear."
+    }
+  },
+  {
+    "asin": "B0CWRY9WH2",
+    "title": "Cruiser Mens Sneakers | Casual Shoes | Experience Comfort & Style with Soft Cushioned Insole | Trendy Lace-Up Design Sneaker (2579)",
+    "product_url": "https://www.amazon.in/dp/B0CWRY9WH2",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47470535039901735,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text overlap detected."
+    }
+  },
+  {
+    "asin": "B0BVMGN86G",
+    "title": "Puma Men Softride Seave Slipper",
+    "product_url": "https://www.amazon.in/dp/B0BVMGN86G",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47020037770271306,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and templating."
+    }
+  },
+  {
+    "asin": "B0D8ZXQSTC",
+    "title": "Puma Men RBD Game Enigma Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0D8ZXQSTC",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.47316511869430544,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0C4C2BY2J",
+    "title": "Neeman's Sole Max Slip On's for Men | Casual Shoes for Men | Comfortable, Breathable and Flexible | Soft Trendy Stylish Shoes for Men | Walking Running Shoes",
+    "product_url": "https://www.amazon.in/dp/B0C4C2BY2J",
+    "trust_score": 84,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.2,
+      "visual_score": 0.47895805537700653,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant repetitive phrasing and inconsistent sentiment."
+    }
+  },
+  {
+    "asin": "B0D7D5B27N",
+    "title": "Centrino Womens 7611 Casual Shoes | Colorblock Sneakers with Ultra Soft Cushion Lace-Up Shoes All-Day Comfort | Trendy & Lightweight Design | Low Top Flat Sole",
+    "product_url": "https://www.amazon.in/dp/B0D7D5B27N",
+    "trust_score": 82,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.3,
+      "visual_score": 0.47360748648643497,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and templating detected."
+    }
+  },
+  {
+    "asin": "B07QHNYV1Z",
+    "title": "Puma Unisex Adult SF Drift Cat 5 Ultra II Sneaker",
+    "product_url": "https://www.amazon.in/dp/B07QHNYV1Z",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4799802333116532,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies in sentiment."
+    }
+  },
+  {
+    "asin": "B0DGCRH9M1",
+    "title": "Centrino Casual Shoe for Men | Cushioned Insole | Stylish Shoe |Sporty Lace-Up Design| Sneakers for Boys & Men (6830)",
+    "product_url": "https://www.amazon.in/dp/B0DGCRH9M1",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.475756973028183,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review inconsistencies and some suspiciously generic positive feedback."
+    }
+  },
+  {
+    "asin": "B0F5BR8L4Y",
+    "title": "Cruiser Sneaker for Men | Lightweight & Comfortable | Stylish Lace-Up Casual Footwear with Cushioned Insole | Perfect for Versatile Outfits (2640)",
+    "product_url": "https://www.amazon.in/dp/B0F5BR8L4Y",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47517702579498294,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "High repetitiveness in positive reviews; similar phrasing and vocabulary."
+    }
+  },
+  {
+    "asin": "B0DFWQL88Z",
+    "title": "ATHCO Mens Vibe Memory Foam Comfort Sneaker Shoes|Gym|Jogging|Sneaker|Athletic|Laceup|Casual|ExtraSoft",
+    "product_url": "https://www.amazon.in/dp/B0DFWQL88Z",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4690637707710266,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant phrase overlap across reviews."
+    }
+  },
+  {
+    "asin": "B0F5BT92BQ",
+    "title": "Cruiser Sneaker for Men | Lightweight & Comfortable | Stylish Lace-Up Casual Footwear with Cushioned Insole | Perfect for Versatile Outfits 2641",
+    "product_url": "https://www.amazon.in/dp/B0F5BT92BQ",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47204849421978,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant repetitive phrasing across reviews."
+    }
+  },
+  {
+    "asin": "B0DSC3H1R8",
+    "title": "Cruiser Mens Comfort & Style with Soft Cushioned Insole | Lightweight Comfort Classic Canvas Sneakers for Everyday Wear |Trendy Lace-Up Design for Casual Outfits (2631)",
+    "product_url": "https://www.amazon.in/dp/B0DSC3H1R8",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4712630867958069,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap across multiple reviews."
+    }
+  },
+  {
+    "asin": "B0F5BSQ8YL",
+    "title": "Cruiser Sneaker for Men | Lightweight & Comfortable | Stylish Lace-Up Casual Footwear with Cushioned Insole | Perfect for Versatile Outfits 2642-1",
+    "product_url": "https://www.amazon.in/dp/B0F5BSQ8YL",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4790232360363007,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant phrase repetition across reviews."
+    }
+  },
+  {
+    "asin": "B0C65CTFZW",
+    "title": "Legwork Capri Casual Leather Sneaker for Men & Boys",
+    "product_url": "https://www.amazon.in/dp/B0C65CTFZW",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4792878091335297,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B085WXZKVF",
+    "title": "AADI Mens Mrj1951 Sneaker",
+    "product_url": "https://www.amazon.in/dp/B085WXZKVF",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47355824410915376,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies."
+    }
+  },
+  {
+    "asin": "B0BG9CTR4Z",
+    "title": "Bacca Bucci Men Lace Up Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0BG9CTR4Z",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.47886926084756853,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Conflicting reviews; some highly positive, others negative and detailed."
+    }
+  },
+  {
+    "asin": "B0DGGR5RVW",
+    "title": "FAUSTO Women Casual Pull-On Shoes",
+    "product_url": "https://www.amazon.in/dp/B0DGGR5RVW",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4776291400194168,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies in sentiment."
+    }
+  },
+  {
+    "asin": "B0DFWRX29P",
+    "title": "ATHCO Mens Vibe Memory Foam Comfort Sneaker Shoes|Gym|Jogging|Sneaker|Athletic|Laceup|Casual|ExtraSoft",
+    "product_url": "https://www.amazon.in/dp/B0DFWRX29P",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4771408721804619,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant phrase overlap across reviews."
+    }
+  },
+  {
+    "asin": "B0BCGQT7TH",
+    "title": "SPARX Mens Sm 750 Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0BCGQT7TH",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.4768230438232422,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review variation; some negative sentiment."
+    }
+  },
+  {
+    "asin": "B0DG5CF9LW",
+    "title": "Symbol Premium Mens Smart Casual Leather Sneakers",
+    "product_url": "https://www.amazon.in/dp/B0DG5CF9LW",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4713890254497528,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap across reviews."
+    }
+  },
+  {
+    "asin": "B0D7CQ6797",
+    "title": "ATHCO Mens Wind Memory Foam Comfort Casual Sneaker Shoes|Laceup|Slip Resistant|Lightweight|Dailyuse|ExtraSoft",
+    "product_url": "https://www.amazon.in/dp/B0D7CQ6797",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.4690321743488312,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Some reviews show templated language; inconsistencies in sentiment and language."
+    }
+  },
+  {
+    "asin": "B09W36HHVW",
+    "title": "Bacca Bucci Men Lace Up Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B09W36HHVW",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47892902642488483,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap and templated phrasing across multiple reviews."
+    }
+  },
+  {
+    "asin": "B08BCSXHHL",
+    "title": "Bacca Bucci Men Suede Lace Up Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B08BCSXHHL",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4780832186341286,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Conflicting reviews; some report poor durability."
+    }
+  },
+  {
+    "asin": "B0DM1LS7KH",
+    "title": "Zaydn Spencer Sneaker for Men | Soft Cushioned Insole & Lightweight | Stylish Lace-Up Shoes with Casual Outfits | Trendy Sneakers | Shoes for Man | Low Top Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0DM1LS7KH",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47809085696935655,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Conflicting reviews and partially templated language."
+    }
+  },
+  {
+    "asin": "B0CBQ1251H",
+    "title": "Puma Women Carina Slim Perf Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0CBQ1251H",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47636207044124607,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and templating detected."
+    }
+  },
+  {
+    "asin": "B0CTZWTLBG",
+    "title": "Puma Unisex Kid Hobbes PS Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0CTZWTLBG",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.47470684647560124,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0DV5CKNV6",
+    "title": "FAUSTO Colorblocked Casual Lace-Up Stylish Chunky Sneaker|Modern Design Sneakers with Comfort Street Style Shoes|Anti Skid Sole",
+    "product_url": "https://www.amazon.in/dp/B0DV5CKNV6",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.4745917558670044,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B09X5ZC2DL",
+    "title": "ASIAN Men's INNOVA-04 Sports Running,Walking & Gym Shoes with Max Cushion Technology Casual Sneaker Shoes for Men's & Boy's",
+    "product_url": "https://www.amazon.in/dp/B09X5ZC2DL",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.4716125249862671,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review variation; some reviews are short and positive, while others are detailed and critical."
+    }
+  },
+  {
+    "asin": "B0CJQJ8PF1",
+    "title": "Sparx Men Lace Up Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0CJQJ8PF1",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.479018272459507,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition detected."
+    }
+  },
+  {
+    "asin": "B0D7CWRGGG",
+    "title": "San Frissco Men's Sneakers Casual Lace Up Sports Shoes for Running and Walking/Striped, Lightweight, Chunky, Colurblocked, Extra Soft Cushioned Insole with TPR Sole for All Day Use",
+    "product_url": "https://www.amazon.in/dp/B0D7CWRGGG",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.4873750686645508,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0F6VM2GL7",
+    "title": "Puma Mens Flexflare Running Shoe",
+    "product_url": "https://www.amazon.in/dp/B0F6VM2GL7",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.47627536952495575,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0CRB4LMS3",
+    "title": "BIGBOON Men's Ethnic Shoes in Sport Style in",
+    "product_url": "https://www.amazon.in/dp/B0CRB4LMS3",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4768011137843132,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap across reviews."
+    }
+  },
+  {
+    "asin": "B0DFH39GQM",
+    "title": "Bacca Bucci Men Lace Up Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0DFH39GQM",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47968201935291294,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review inconsistencies; some positive, some extremely negative."
+    }
+  },
+  {
+    "asin": "B0DGCMM93B",
+    "title": "Centrino Casual Shoe for Men | Cushioned Insole | Stylish Shoe |Sporty Lace-Up Design| Sneakers for Boys & Men (6832)",
+    "product_url": "https://www.amazon.in/dp/B0DGCMM93B",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4809461772441864,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review inconsistencies; some positive, some extremely negative."
+    }
+  },
+  {
+    "asin": "B0CSW84NCN",
+    "title": "OVERDRIVE Suede Casual Sneakers for Men with Lace ups and TPR Sole (S2417654)",
+    "product_url": "https://www.amazon.in/dp/B0CSW84NCN",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4720871090888977,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B09XXR7NTP",
+    "title": "ASIAN Men's Casual Sneaker Hi-Neck Shoes with Lightweight Comfortable Mid Top Sneaker Shoes for Men's & Boy's Skypee-31 Silver",
+    "product_url": "https://www.amazon.in/dp/B09XXR7NTP",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4836151897907257,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text repetition and inconsistent sentiment."
+    }
+  },
+  {
+    "asin": "B0DZSTNZPK",
+    "title": "SilverArrow Women's Luxco Sneakers |Casual Lace up Shoes | Cushioned Footbed for Extra Comfort | Perfect for Casual Outfit",
+    "product_url": "https://www.amazon.in/dp/B0DZSTNZPK",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.471571147441864,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap across multiple reviews."
+    }
+  },
+  {
+    "asin": "B0DZHTG5VT",
+    "title": "SilverArrow Womens Drift Sneakers |Casual Lace up Shoes | Cushioned Footbed for Extra Comfort | Perfect for Casual Outfit",
+    "product_url": "https://www.amazon.in/dp/B0DZHTG5VT",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47789131402969365,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap across reviews."
+    }
+  },
+  {
+    "asin": "B0BQBVYV2K",
+    "title": "Puma Unisex Adult AllDay Active Logo Power Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0BQBVYV2K",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.47061826288700104,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0CJ31W6SJ",
+    "title": "Amazon Brand - Symbol Men Lace Up Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0CJ31W6SJ",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4706954717636109,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies in sentiment."
+    }
+  },
+  {
+    "asin": "B0D4CZ6GN2",
+    "title": "Puma Kids Walkies PS Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0D4CZ6GN2",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4793966978788376,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0D6VZ47H9",
+    "title": "Puma Unisex Kid RBD Game Low V1 Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0D6VZ47H9",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.4727446436882019,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0CXXKRNDH",
+    "title": "Levi's Men Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0CXXKRNDH",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.47612351477146153,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review inconsistencies; some positive, some negative, regarding sizing and comfort."
+    }
+  },
+  {
+    "asin": "B0BGCDK4VY",
+    "title": "Bacca Bucci Men Lace Up Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0BGCDK4VY",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.4733926922082901,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0BVMDHHX7",
+    "title": "Puma Men Scorch Runner V2 Running Shoe",
+    "product_url": "https://www.amazon.in/dp/B0BVMDHHX7",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.4709447801113129,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review inconsistencies; some positive, some report quality issues."
+    }
+  },
+  {
+    "asin": "B0BK9FVXGW",
+    "title": "Puma Men Wired Rapid Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0BK9FVXGW",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47551198899745944,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies in sentiment."
+    }
+  },
+  {
+    "asin": "B0BGS9MNLN",
+    "title": "Puma Men Duke Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0BGS9MNLN",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47524309158325195,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Multiple reviews mention authenticity concerns."
+    }
+  },
+  {
+    "asin": "B0D636W3MW",
+    "title": "Puma Unisex Adult CA Pro Crush Earth Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0D636W3MW",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4748135209083557,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies in sentiment."
+    }
+  },
+  {
+    "asin": "B09SVKVFY7",
+    "title": "Neeman's ReLive Knit Casual Slip On Sneakers for Women | Padded Insole for Extra Support, Stylish Shoes for Girls",
+    "product_url": "https://www.amazon.in/dp/B09SVKVFY7",
+    "trust_score": 82,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.3,
+      "visual_score": 0.47555298507213595,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant inconsistencies in reviews; some positive, some highly negative."
+    }
+  },
+  {
+    "asin": "B0D3ZJBFND",
+    "title": "Puma Unisex Adult CA Pro La France Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0D3ZJBFND",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.47327126860618596,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0BRBHH8QH",
+    "title": "Puma Unisex Kid Softride Enzo Evo Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0BRBHH8QH",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.4808307483792305,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0B3VLXGPK",
+    "title": "ASIAN Men's Newton-01 Sports Running Shoes Latest Stylish Casual Sneakers,Lace up Lightweight Shoes for Running",
+    "product_url": "https://www.amazon.in/dp/B0B3VLXGPK",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.48114532232284546,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review variation; no strong indicators of fraud."
+    }
+  },
+  {
+    "asin": "B0CLGMP3YN",
+    "title": "Impakto Air Bounce Hands Free Black Sneakers for Men",
+    "product_url": "https://www.amazon.in/dp/B0CLGMP3YN",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47182319164276126,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Conflicting sentiment and partially templated reviews."
+    }
+  },
+  {
+    "asin": "B0DFLZ7X4Q",
+    "title": "Centrino Casual Shoe for Men | Cushioned Insole Provide Comfort| Stylish Sneaker Shoe | Lace-Up Design | Perfect for Casual Outfits for Boys & Men (6826)",
+    "product_url": "https://www.amazon.in/dp/B0DFLZ7X4Q",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4753494203090668,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and templating."
+    }
+  },
+  {
+    "asin": "B0CPT32WK6",
+    "title": "Puma Men Tychonic Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0CPT32WK6",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4725623965263367,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0D83YGPJ1",
+    "title": "Cruiser Mens Sneaker | Comfort & Style with Soft Cushioned Insole | Sleek, Stylish, and Ready for Anything | Everyday Sneakers with Effortless Vibes|Trendy Lace-Up Design for Casual Outfits 2604",
+    "product_url": "https://www.amazon.in/dp/B0D83YGPJ1",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4730595022439957,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Similar phrasing and positive sentiment across reviews suggest potential manipulation."
+    }
+  },
+  {
+    "asin": "B0DTTKQ5S2",
+    "title": "YOHO Trip Sneakers for Men | Stylish Casual Shoes with Elastic Laces | Comfortable, Stretchable & Ultra-Lightweight | Premium Breathable Mesh Fabric",
+    "product_url": "https://www.amazon.in/dp/B0DTTKQ5S2",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4772639632225037,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and templating detected."
+    }
+  },
+  {
+    "asin": "B0F8W6XR82",
+    "title": "LOUIS STITCH All Day Wear Lace-Ups for Men | Comfortable Lace-Ups | LSP-SNK-AVI-Lace-Ups",
+    "product_url": "https://www.amazon.in/dp/B0F8W6XR82",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47340508699417116,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and templating."
+    }
+  },
+  {
+    "asin": "B0F5BMMGBT",
+    "title": "Neeman's Cloud Knit Sneakers for Men | Lightweight, Breathable & Supportive | Recycled Knit Upper with Cushioned Insole & Flexible EVA Sole",
+    "product_url": "https://www.amazon.in/dp/B0F5BMMGBT",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.4765101820230484,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0DR8Z1V86",
+    "title": "YOHO Wind Sneakers for Men | Stylish Casual Shoes with Elastic Laces | Comfortable, Stretchable & Ultra-Lightweight | Premium Breathable Mesh Fabric",
+    "product_url": "https://www.amazon.in/dp/B0DR8Z1V86",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4735370457172394,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap across positive reviews."
+    }
+  },
+  {
+    "asin": "B0DFWTXV2Q",
+    "title": "ATHCO Mens Vibe Memory Foam Comfort Sneaker Shoes|Gym|Jogging|Sneaker|Athletic|Laceup|Casual|ExtraSoft",
+    "product_url": "https://www.amazon.in/dp/B0DFWTXV2Q",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4690637707710266,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant phrase overlap across reviews."
+    }
+  },
+  {
+    "asin": "B0DG58VCRG",
+    "title": "Symbol Premium Mens Smart Casual Leather Sneakers",
+    "product_url": "https://www.amazon.in/dp/B0DG58VCRG",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4713890254497528,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap across reviews."
+    }
+  },
+  {
+    "asin": "B0DGG7N9NJ",
+    "title": "Bacca Bucci Men Lace Up Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0DGG7N9NJ",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.47639952301979066,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Some reviews show templated language and excessive praise."
+    }
+  },
+  {
+    "asin": "B0CMD6N48X",
+    "title": "Bacca Bucci Men Lace Up Athletic Shoes",
+    "product_url": "https://www.amazon.in/dp/B0CMD6N48X",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.4727233707904816,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant inconsistencies in sentiment and some repetitive phrasing."
+    }
+  },
+  {
+    "asin": "B0DGCRNXBC",
+    "title": "Centrino Casual Shoe for Men | Cushioned Insole | Stylish Shoe |Sporty Lace-Up Design| Sneakers for Boys & Men (6832)",
+    "product_url": "https://www.amazon.in/dp/B0DGCRNXBC",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47167134881019596,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review inconsistencies; some positive, some extremely negative."
+    }
+  },
+  {
+    "asin": "B0C6581XG5",
+    "title": "Legwork Capri Casual Leather Sneaker for Men & Boys",
+    "product_url": "https://www.amazon.in/dp/B0C6581XG5",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4792878091335297,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B09SQ3VS5Q",
+    "title": "Neeman's ReLive Knit Casual Slip On Shoes for Men",
+    "product_url": "https://www.amazon.in/dp/B09SQ3VS5Q",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.4753502160310745,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review inconsistencies; some positive, some negative, and some highly critical."
+    }
+  },
+  {
+    "asin": "B0DR5XG4B6",
+    "title": "The Souled Store Black Panther: Warrior Men and Boys Lace Up High Top Sneakers",
+    "product_url": "https://www.amazon.in/dp/B0DR5XG4B6",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.4790432691574097,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0BKNLY67H",
+    "title": "Bacca Bucci Men Lace Up Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0BKNLY67H",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.47943438142538075,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review variation; no strong linguistic patterns."
+    }
+  },
+  {
+    "asin": "B0D7CRZCJ7",
+    "title": "ATHCO Mens Wind Memory Foam Comfort Casual Sneaker Shoes|Laceup|Slip Resistant|Lightweight|Dailyuse|ExtraSoft",
+    "product_url": "https://www.amazon.in/dp/B0D7CRZCJ7",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.4690321743488312,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Some reviews show templated language; inconsistencies in sentiment and language."
+    }
+  },
+  {
+    "asin": "B09W365KJ1",
+    "title": "Bacca Bucci Men Lace Up Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B09W365KJ1",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47377491593360904,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap and templated phrasing across multiple reviews."
+    }
+  },
+  {
+    "asin": "B0CNMWVYWP",
+    "title": "ASIAN Boys Lace Up Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0CNMWVYWP",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47743635773658755,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies in sentiment."
+    }
+  },
+  {
+    "asin": "B0CQRBR8ST",
+    "title": "Puma Men R78 Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0CQRBR8ST",
+    "trust_score": 82,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.3,
+      "visual_score": 0.47619599252939226,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Some reviews show templated language; inconsistencies in sentiment."
+    }
+  },
+  {
+    "asin": "B0DPNGZ27C",
+    "title": "Puma Kids Softride PremierRes Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0DPNGZ27C",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.47155294418334964,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0BRR179FL",
+    "title": "Puma Unisex Kid Caven Block Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0BRR179FL",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.47295790910720825,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0BZQ4MLGM",
+    "title": "Centrino Men's Casual Shoes Fashion Lace Up Non-Slip Flats Trendy Stylish All Day Comfortable Lightweight Sneakers with Extra Comfort on Heel (2895)",
+    "product_url": "https://www.amazon.in/dp/B0BZQ4MLGM",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4704893946647644,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review inconsistencies and some templated phrases."
+    }
+  },
+  {
+    "asin": "B0D4CXTGN6",
+    "title": "Puma Kids Walkies PS Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0D4CXTGN6",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4793966978788376,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0DFGV3QJ6",
+    "title": "Campus Men Og-31 Sneakers",
+    "product_url": "https://www.amazon.in/dp/B0DFGV3QJ6",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.4759919404983521,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review inconsistencies; some positive, some negative."
+    }
+  },
+  {
+    "asin": "B09P693ZRY",
+    "title": "Lify Flat Shoelaces - 8MM (5/16\" Inch) Wide - Shoe Laces For All types Shoes & Sneakers- Vibrant Colors: - Set of 6",
+    "product_url": "https://www.amazon.in/dp/B09P693ZRY",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47910234332084656,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies in sentiment."
+    }
+  },
+  {
+    "asin": "B0CG5QXYVB",
+    "title": "SPARX Mens SM 852 | Stylish, Comfortable | (SM 852)",
+    "product_url": "https://www.amazon.in/dp/B0CG5QXYVB",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.47207090556621556,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "some reviews show templated positive language."
+    }
+  },
+  {
+    "asin": "B07X95YDPZ",
+    "title": "ASIAN Men's Cosco-13 Sports Running,Walking & Gym, School Shoes Lightweight Eva Sole Extra Jump Casual Sneaker Lace-Up Shoes for Men's & Boy's",
+    "product_url": "https://www.amazon.in/dp/B07X95YDPZ",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.47420802116394045,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies in sentiment."
+    }
+  },
+  {
+    "asin": "B0DSFLYZRV",
+    "title": "FAUSTO Men Colorblocked Low Ankle Contrast Sole Lace Up Sneakers|Classic Combine Style Sneaker Shoes|Lace Up Casual Shoes",
+    "product_url": "https://www.amazon.in/dp/B0DSFLYZRV",
+    "trust_score": 84,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.2,
+      "visual_score": 0.4795961737632752,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Reviews show diverse sentiment and language."
+    }
+  },
+  {
+    "asin": "B0DGCSDMGK",
+    "title": "Centrino Casual Shoe for Men | Cushioned Insole | Stylish Shoe |Sporty Lace-Up Design| Sneakers for Boys & Men (6831)",
+    "product_url": "https://www.amazon.in/dp/B0DGCSDMGK",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47089255750179293,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies in sentiment."
+    }
+  },
+  {
+    "asin": "B0DGCLJCSS",
+    "title": "Centrino Casual Shoe for Men | Cushioned Insole | Stylish Shoe |Sporty Lace-Up Design| Sneakers for Boys & Men (6830)",
+    "product_url": "https://www.amazon.in/dp/B0DGCLJCSS",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.477230216562748,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review inconsistencies and some suspiciously generic positive feedback."
+    }
+  },
+  {
+    "asin": "B0CT8N9FL1",
+    "title": "Puma Kids RSX Trash Talk Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0CT8N9FL1",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.47686502039432527,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0CTZP6Q78",
+    "title": "Puma Unisex Kid Softride Vital Pro Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0CTZP6Q78",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.48010101020336154,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0D842GL9S",
+    "title": "Cruiser Mens Sneaker | Comfort & Style with Soft Cushioned Insole |Stylish Casual Sneakers for Men | Trendy Lace-Up Design for Casual Outfits (2602)",
+    "product_url": "https://www.amazon.in/dp/B0D842GL9S",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47281225919723513,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Repetitive positive phrasing; lack of critical reviews."
+    }
+  },
+  {
+    "asin": "B09NYDH3L9",
+    "title": "Bacca Bucci Men Lace Up Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B09NYDH3L9",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.4767443418502808,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0BHHRZBXJ",
+    "title": "Campus Women Raise Sneakers",
+    "product_url": "https://www.amazon.in/dp/B0BHHRZBXJ",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.4833484813570976,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant repetitive positive phrasing across reviews."
+    }
+  },
+  {
+    "asin": "B0DK5M9D4Q",
+    "title": "Liberty Leap7x Z-IGNIS Lacing Casual Sneakers for Men with EVA Sole | PVC Upper | Memory Foam Insole | Stylish & Comfortable | Breathable, Lightweight & Flexibility | Shock Absorption",
+    "product_url": "https://www.amazon.in/dp/B0DK5M9D4Q",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.47740885615348816,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0BRBJKS4F",
+    "title": "Puma Unisex Kid Twitch Runner Twist Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0BRBJKS4F",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4771106094121933,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0BRBKFQCH",
+    "title": "Puma Unisex Adult PWR Runner Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0BRBKFQCH",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4736911207437515,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B09QQN78M9",
+    "title": "Centrino Men's Casual Shoes Fashion Lace Up Non-Slip Flats Trendy Stylish All Day Comfortable Lightweight Sneakers with Extra Comfort on Heel (3211)",
+    "product_url": "https://www.amazon.in/dp/B09QQN78M9",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.4735436618328095,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant repetitive phrasing and sentiment inconsistencies."
+    }
+  },
+  {
+    "asin": "B0CWRY5NF6",
+    "title": "Cruiser Mens Sneaker| Comfort & Style with Soft Cushioned Insole | Classic Canvas Sneakers for Effortless Style |Trendy Lace-Up Design for Casual Outfits (2578)",
+    "product_url": "https://www.amazon.in/dp/B0CWRY5NF6",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.475356362760067,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap across multiple reviews."
+    }
+  },
+  {
+    "asin": "B0DPSPT7C3",
+    "title": "MONDAIN Leather Casual Sneakers for Men | EVA Sole Comfort",
+    "product_url": "https://www.amazon.in/dp/B0DPSPT7C3",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4778506696224213,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0DCP4G48D",
+    "title": "Zaydn Flame Sneaker for Men| Soft Cushioned Insole & Lightweight | Stylish Lace-Up Shoes with Casual Outfits | Trendy Sneakers | Shoes for Man | Low Top Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0DCP4G48D",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4737789273262024,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "templated review detected; inconsistent sentiment."
+    }
+  },
+  {
+    "asin": "B0F4XBRF1P",
+    "title": "ADISO Men's Chunky Sole Streetwear Sneakers | Trendy Lace-Up Casual Shoes for Fashion-Forward",
+    "product_url": "https://www.amazon.in/dp/B0F4XBRF1P",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4699536681175232,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0DFLTW7G4",
+    "title": "Centrino Men's Casual Sneaker Shoes |Trendy,Stylish Lace-Up Design| Lightweight Sneakers | Perfect Wear to Outings, and Comfortable All-Day Use | Soft Cushioned Insole | Stylish & Comfortable (6823)",
+    "product_url": "https://www.amazon.in/dp/B0DFLTW7G4",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.47356094717979436,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0BQBXR4KP",
+    "title": "Puma Unisex Adult Super Team OG Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0BQBXR4KP",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.480368185043335,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0CQRR5JQ3",
+    "title": "Neeman's Retro Slick Sneakers for Men | Casual Shoes for Men",
+    "product_url": "https://www.amazon.in/dp/B0CQRR5JQ3",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47767306864261627,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant repetitive phrasing across multiple reviews."
+    }
+  },
+  {
+    "asin": "B0BRBJW7RZ",
+    "title": "Puma Unisex Kid Caven Brand Love AC+ PS Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0BRBJW7RZ",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4759380117058754,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0CRHJZ2JH",
+    "title": "ASIAN Carnival-13 Men's High Top Casual Chunky Fashion Sneakers,Dancing Shoes | Basketball Shoes with Rubber Outsole for Boys",
+    "product_url": "https://www.amazon.in/dp/B0CRHJZ2JH",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.4780655905604363,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review inconsistencies; some positive, some negative."
+    }
+  },
+  {
+    "asin": "B0DM1J9H25",
+    "title": "Zaydn Vigor Sneaker for Men | Soft Cushioned Insole & Lightweight | Stylish Lace Up Shoes with Casual Outfits | Trendy Sneakers | Shoes for Man | Low Top Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0DM1J9H25",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.47307199239730835,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0C8MZ9W29",
+    "title": "ASIAN Men's White Casual Sneaker Shoes with Synthetic Upper Lightweight Comfortable Mid Top Sneaker Shoes for Men's & Boy's Tarzan-05",
+    "product_url": "https://www.amazon.in/dp/B0C8MZ9W29",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4716969221830368,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Duplicate reviews and inconsistent sentiment."
+    }
+  },
+  {
+    "asin": "B09W36674L",
+    "title": "Bacca Bucci Men Lace Up Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B09W36674L",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47950527966022494,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies in sentiment."
+    }
+  },
+  {
+    "asin": "B0BKTT1M2Y",
+    "title": "ASIAN Men's M-2025 Casual Sneakers,Loafer Shoes with Extra Cushion Lightweight Casual Slip-On Shoes for Men's & Boy's",
+    "product_url": "https://www.amazon.in/dp/B0BKTT1M2Y",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.4811803296208382,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant linguistic variation across reviews."
+    }
+  },
+  {
+    "asin": "B0DTTG1MKW",
+    "title": "YOHO Trip Sneakers for Men | Stylish Casual Shoes with Elastic Laces | Comfortable, Stretchable & Ultra-Lightweight | Premium Breathable Mesh Fabric",
+    "product_url": "https://www.amazon.in/dp/B0DTTG1MKW",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47068085968494416,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and templating detected."
+    }
+  },
+  {
+    "asin": "B0F3XQGQ5S",
+    "title": "Toni Rossi Men's Casual Sneakers Leather Lace-Up Shoes | Stylish & Comfortable Walking Shoes, Travel & Outings",
+    "product_url": "https://www.amazon.in/dp/B0F3XQGQ5S",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.47361927926540376,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0F32XDTTZ",
+    "title": "Toni Rossi ARMELA Men's Casual Leather Slip-On Shoes | Stylish & Comfortable for Everyday Wear",
+    "product_url": "https://www.amazon.in/dp/B0F32XDTTZ",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4695359289646149,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0DG5DTQF2",
+    "title": "Symbol Premium Mens Smart Casual Extralight Leather Sneakers (Extralight Sole)",
+    "product_url": "https://www.amazon.in/dp/B0DG5DTQF2",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47563306987285614,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Repetitive phrasing and promotional language across multiple reviews."
+    }
+  },
+  {
+    "asin": "B0DFWRXLDB",
+    "title": "ATHCO Mens Vibe Memory Foam Comfort Sneaker Shoes|Gym|Jogging|Sneaker|Athletic|Laceup|Casual|ExtraSoft",
+    "product_url": "https://www.amazon.in/dp/B0DFWRXLDB",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4771408721804619,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant phrase overlap across reviews."
+    }
+  },
+  {
+    "asin": "B0D7M4NHC5",
+    "title": "STANPHORD Mens Adventure Sneakers | Colourblocked Chunky Casual Lace Up Shoes | Walking | Daily & Occasion Wear | Soft Cushioned Insole | Comfortable Shoes",
+    "product_url": "https://www.amazon.in/dp/B0D7M4NHC5",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.47964874356985093,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0DDY4LN7V",
+    "title": "FAUSTO Men's Colorblocked High Top Hook and Loop Adjustable Fasteners Adjustable Classic Sneakers|Memory Cushion Insole|Street Fashion Hi-Top Sneakers",
+    "product_url": "https://www.amazon.in/dp/B0DDY4LN7V",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4739181220531464,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Similar phrasing across reviews suggests potential manipulation."
+    }
+  },
+  {
+    "asin": "B079LNPNN1",
+    "title": "Bata Men Pull On School Uniform Shoe",
+    "product_url": "https://www.amazon.in/dp/B079LNPNN1",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.4769579201936722,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text reuse and inconsistent sentiment."
+    }
+  },
+  {
+    "asin": "B0CKYRMW7R",
+    "title": "Puma Men Softride Victoride Running Shoe",
+    "product_url": "https://www.amazon.in/dp/B0CKYRMW7R",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.4737180501222611,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0C5DPPTYG",
+    "title": "Marc Loire Women's Lightweight Athleisure Knitted Active Wear Slip-On Sneaker Shoes for Sports, Athletics, and Walking",
+    "product_url": "https://www.amazon.in/dp/B0C5DPPTYG",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.4813947916030884,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review inconsistencies and some negative feedback."
+    }
+  },
+  {
+    "asin": "B0DG58S1D9",
+    "title": "Symbol Premium Mens Smart Casual Leather Sneakers",
+    "product_url": "https://www.amazon.in/dp/B0DG58S1D9",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4713890254497528,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap across reviews."
+    }
+  },
+  {
+    "asin": "B0D7CPS79M",
+    "title": "ATHCO Mens Wind Memory Foam Comfort Casual Sneaker Shoes|Laceup|Slip Resistant|Lightweight|Dailyuse|ExtraSoft",
+    "product_url": "https://www.amazon.in/dp/B0D7CPS79M",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.4690321743488312,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Some reviews show templated language; inconsistencies in sentiment and language."
+    }
+  },
+  {
+    "asin": "B09W38XCFS",
+    "title": "Bacca Bucci Men Lace Up Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B09W38XCFS",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47377491593360904,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap and templated phrasing across multiple reviews."
+    }
+  },
+  {
+    "asin": "B0B4HDR31C",
+    "title": "Bacca Bucci Men Lace Up Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0B4HDR31C",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4792050287127495,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies in sentiment."
+    }
+  },
+  {
+    "asin": "B0DJ97L6DD",
+    "title": "Puma Men Court Shatter Low Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0DJ97L6DD",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47587209194898605,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies."
+    }
+  },
+  {
+    "asin": "B0DM1KCLM5",
+    "title": "Zaydn Zen Sneaker for Men | Soft Cushioned Insole & Lightweight | Stylish Lace Up Shoes with Casual Outfits | Trendy Sneakers | Shoes for Man | Low Top Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0DM1KCLM5",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.47545063942670823,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B08T64LW5V",
+    "title": "Vendoz Women Black Casual Stylish Sneakers",
+    "product_url": "https://www.amazon.in/dp/B08T64LW5V",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4737200498580933,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant repetitive positive phrasing; lack of detailed negative reviews."
+    }
+  },
+  {
+    "asin": "B0D6VWXXR9",
+    "title": "Puma Unisex Adult Road Rider Lux Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0D6VWXXR9",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.4753051847219467,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0DP2XXD4G",
+    "title": "Bacca Bucci Men Lace Up Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0DP2XXD4G",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.47573350816965104,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0D843P57V",
+    "title": "Cruiser Mens Sneaker | Comfort & Style with Soft Cushioned Insole |Everyday Sneakers with Effortless Vibes | Trendy Lace-Up Design for Casual Outfits (2601)",
+    "product_url": "https://www.amazon.in/dp/B0D843P57V",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47285030484199525,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Repetitive phrasing and promotional language in multiple reviews."
+    }
+  },
+  {
+    "asin": "B0D6VNYKWK",
+    "title": "Puma Men BMW MMS Hypnotic LS Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0D6VNYKWK",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4732397347688675,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and templating."
+    }
+  },
+  {
+    "asin": "B0D6VYWQ84",
+    "title": "Puma Unisex Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0D6VYWQ84",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.47083379626274113,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0B9ZJ2GY2",
+    "title": "Liberty Lucy&Luke BASTIAN-2E Slip-on Casual Shoes for Kids with PVC Sole | Canvas Upper Sneakers | Quick-Wear Velcro Closure | Stylish, Lightweight & Comfortable Footbed",
+    "product_url": "https://www.amazon.in/dp/B0B9ZJ2GY2",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.47964571565389635,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "some repetitive phrasing, but mostly diverse opinions."
+    }
+  },
+  {
+    "asin": "B0DC6Y5LZV",
+    "title": "Tracer Men & Women Casual Shoes – Dynamic Design, Cloud-Like Comfort, Precision Grip, Breathable Harmony Mesh, Tailored Fit, Versatile Fashion for All Occasions – Redefine Your Casual Style",
+    "product_url": "https://www.amazon.in/dp/B0DC6Y5LZV",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.47939519882202153,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0BG9C2TQW",
+    "title": "Bacca Bucci Men Lace Up Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0BG9C2TQW",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.47886926084756853,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Conflicting reviews; some highly positive, others negative and detailed."
+    }
+  },
+  {
+    "asin": "B0D35QDYBV",
+    "title": "Puma Unisex Kid Prismy PS Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0D35QDYBV",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.47808329910039904,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0DCP1JYH2",
+    "title": "BOLDSTUFF No Tie Shoelaces Elastic Shoe Laces for Sneakers No Tie Shoelaces Lock Shoe Laces Tieless Black for all type Shoes Set for Adults-Unisex | Quick Lace Length: 100 CM |",
+    "product_url": "https://www.amazon.in/dp/B0DCP1JYH2",
+    "trust_score": 82,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.3,
+      "visual_score": 0.478694598376751,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Mixed reviews, but no strong evidence of coordinated fake reviews."
+    }
+  },
+  {
+    "asin": "B0BQBWDZZD",
+    "title": "Puma Unisex Kid Enzo 2 Refresh BrandLoveACPS Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0BQBWDZZD",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.4760988622903824,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0D6VT5352",
+    "title": "Puma Women Pop Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0D6VT5352",
+    "trust_score": 82,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.3,
+      "visual_score": 0.47183342874050144,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and templating detected."
+    }
+  },
+  {
+    "asin": "B0DQQ9HDMM",
+    "title": "Cruiser Mens Sneaker| Comfort & Style with Soft Cushioned Insole | Classic Canvas Sneakers for Effortless Style |Trendy Lace-Up Design for Casual Outfits (2623)",
+    "product_url": "https://www.amazon.in/dp/B0DQQ9HDMM",
+    "trust_score": 60,
+    "verdict": false,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.47627324759960177,
+      "brand_mismatch": false,
+      "rule_score": 0.9
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0BQBVRQPL",
+    "title": "Puma Unisex Kid Enzo 2 Refresh Brand Love Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0BQBVRQPL",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.4716155111789704,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0BRBL8ZX1",
+    "title": "Puma Kids Evolve PS Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0BRBL8ZX1",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4728318631649018,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0D5BXCW9V",
+    "title": "Louis Philippe Men Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0D5BXCW9V",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4747164696455002,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0CXX8MPZF",
+    "title": "Levi's Men Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0CXX8MPZF",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.473995316028595,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0BVMGH5GP",
+    "title": "Puma Unisex Adult Slipstream Hi Heritage Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0BVMGH5GP",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.4696760594844818,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B09G2YJC5G",
+    "title": "Liberty Men Brl-10 Casual Sneakers",
+    "product_url": "https://www.amazon.in/dp/B09G2YJC5G",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47440142929553986,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Conflicting sentiment and short review length."
+    }
+  },
+  {
+    "asin": "B0DCP3LNKD",
+    "title": "Zaydn Louis Sneaker for Men| Soft Cushioned Insole & Lightweight | Stylish Lace-Up Shoes with Casual Outfits | Trendy Sneakers | Shoes for Man | Low Top Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0DCP3LNKD",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4717563360929489,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies in sentiment."
+    }
+  },
+  {
+    "asin": "B0DTYY7QR2",
+    "title": "TWIZE The Original Foam Sneaker Cleaner 150ML With Free Brush Inside | Quick & Effective | for All Shoe Types",
+    "product_url": "https://www.amazon.in/dp/B0DTYY7QR2",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.48037641644477846,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0DM8BKRT8",
+    "title": "SOLETHREADS Chaser Sneakers for Men | Stylish & Fashionable| Comfortable|Walking Shoes| Lightweight Flexible| Skid-Resistant| Everyday |Casual Shoes for Men",
+    "product_url": "https://www.amazon.in/dp/B0DM8BKRT8",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.47809769064188007,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0DM88QSX7",
+    "title": "SOLETHREADS SYNC Sneakers for Men | Stylish & Fashionable| Comfortable|Walking Shoes| Lightweight Flexible| Skid-Resistant| Everyday |Casual Shoes for Men",
+    "product_url": "https://www.amazon.in/dp/B0DM88QSX7",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4785328194499016,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0BGDKDXVS",
+    "title": "ASIAN Women's Fireflty-04 Sports Running,Walking & Gym Shoes Max Cushion with Memory Form Lightweight Eva Sole Extra Jump Casual Sneaker Shoes for Women's & Girl's…",
+    "product_url": "https://www.amazon.in/dp/B0BGDKDXVS",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47973420023918156,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and templating detected."
+    }
+  },
+  {
+    "asin": "B0CBPX1617",
+    "title": "Puma Unisex Kid Future Rider Splash Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0CBPX1617",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.47580848038196566,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0CND4SGJ7",
+    "title": "Neeman's Casual Pop Sneakers for Men | Casual Shoes for Men | Comfortable & Stylish | Lightweight Stylish Soft Trendy | Lace-Up Shoes for Men | Flat Heel EVA Sole Walking Shoes",
+    "product_url": "https://www.amazon.in/dp/B0CND4SGJ7",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47701638638973237,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap and inconsistent sentiment."
+    }
+  },
+  {
+    "asin": "B0DC6XCDH3",
+    "title": "TRACER Kids Casual Shoes – Dynamic Design, Cloud-Like Comfort, Precision Grip, Breathable Harmony Breathable Footwear, Versatile Fashion for All Occasions – Redefine Your Casual Style, Size 1 to 4 UK",
+    "product_url": "https://www.amazon.in/dp/B0DC6XCDH3",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4813643127679825,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0D6VNL3C4",
+    "title": "Puma Unisex Adult PL Tiburion Logo Turbo Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0D6VNL3C4",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.474470716714859,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0F8W5BQ5D",
+    "title": "LOUIS STITCH All Day Wear Lace-Ups for Men | Comfortable Lace-Ups | LSP-SNK-AVI-Lace-Ups",
+    "product_url": "https://www.amazon.in/dp/B0F8W5BQ5D",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4737283229827881,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and templating."
+    }
+  },
+  {
+    "asin": "B0DGCSY2JV",
+    "title": "Centrino Casual Shoe for Men | Cushioned Insole | Stylish Shoe |Sporty Lace-Up Design| Sneakers for Boys & Men (6832)",
+    "product_url": "https://www.amazon.in/dp/B0DGCSY2JV",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47328273057937625,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review inconsistencies; some positive, some extremely negative."
+    }
+  },
+  {
+    "asin": "B0CL4XR9JV",
+    "title": "ASIAN Men's JASPER-18 WHTBLACK Casual Sneaker Shoes with Synthetic Upper Lightweight Comfortable Mid Top Sneaker Shoes for Men's & Boy's",
+    "product_url": "https://www.amazon.in/dp/B0CL4XR9JV",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47507963329553604,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies."
+    }
+  },
+  {
+    "asin": "B0F8W61VDZ",
+    "title": "LOUIS STITCH All Day Wear Lace-Up for Men | Comfortable Sneaker | LSP-SNK-AVI-High Ankle Lace-Up",
+    "product_url": "https://www.amazon.in/dp/B0F8W61VDZ",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.4752611964941025,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0DG5MN82X",
+    "title": "Symbol Premium Mens Smart Casual Extralight Leather Sneakers (Extralight Sole)",
+    "product_url": "https://www.amazon.in/dp/B0DG5MN82X",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47563306987285614,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Repetitive phrasing and promotional language across multiple reviews."
+    }
+  },
+  {
+    "asin": "B0DWXVL85D",
+    "title": "ASIAN Men CHICAGO-02N Stylish Casual Mid Top Sneakers and Trendy Shoes with Laces for Men & Boys | Perfect for Wearing to Outings, and Comfortable All-Day Use, Stylish and Durable-CHICAGO-02N$",
+    "product_url": "https://www.amazon.in/dp/B0DWXVL85D",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.474842780828476,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0B4H8FMN9",
+    "title": "Bacca Bucci Men Lace Up Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0B4H8FMN9",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4792050287127495,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies in sentiment."
+    }
+  },
+  {
+    "asin": "B0D7CQQ1K8",
+    "title": "ATHCO Mens Wind Memory Foam Comfort Casual Sneaker Shoes|Laceup|Slip Resistant|Lightweight|Dailyuse|ExtraSoft",
+    "product_url": "https://www.amazon.in/dp/B0D7CQQ1K8",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.47568729370832447,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Some reviews show templated language; inconsistencies in sentiment and language."
+    }
+  },
+  {
+    "asin": "B09W34RM6Y",
+    "title": "Bacca Bucci Men Lace Up Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B09W34RM6Y",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47377491593360904,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap and templated phrasing across multiple reviews."
+    }
+  },
+  {
+    "asin": "B0CCYMJLG3",
+    "title": "Puma Unisex Adult RSX Geek Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0CCYMJLG3",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47888533025979996,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies in sentiment."
+    }
+  },
+  {
+    "asin": "B0DCG9Q32T",
+    "title": "Mochi Men’s Sporty Lycra Mesh Slip On Sneakers",
+    "product_url": "https://www.amazon.in/dp/B0DCG9Q32T",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4772118180990219,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0CK4Y5RRX",
+    "title": "Puma Unisex Adult 180 Reflect Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0CK4Y5RRX",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.4769744753837586,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Conflicting reviews, but some genuine negative feedback."
+    }
+  },
+  {
+    "asin": "B0CZRYF2TG",
+    "title": "Puma Unisex Adult RSX Efekt Perf Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0CZRYF2TG",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.47764972001314165,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B097C88WXC",
+    "title": "Puma Men Velocity Nitro 2 Running Shoe",
+    "product_url": "https://www.amazon.in/dp/B097C88WXC",
+    "trust_score": 82,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.3,
+      "visual_score": 0.4700187504291535,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review variation; some reviews are highly positive, others report defects."
+    }
+  },
+  {
+    "asin": "B0987WVJ2B",
+    "title": "Puma Unisex Kid Flex PS Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0987WVJ2B",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.48005589842796326,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review inconsistencies; some positive, some negative."
+    }
+  },
+  {
+    "asin": "B0CRHT3VH5",
+    "title": "Puma Unisex Adult Slipstream Pop Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0CRHT3VH5",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.47278085350990295,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0BDSSTSF4",
+    "title": "U.S. POLO ASSN. Men Lace Up Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0BDSSTSF4",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.4752002984285355,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review inconsistencies; some positive, some negative."
+    }
+  },
+  {
+    "asin": "B0C1VKJ6HB",
+    "title": "Centrino Casual Shoe for Men | Trendy Sneaker with Soft Cushioned Insole | Stylish, Durable & Comfortable Design | Ideal for Everyday Casual Wear & Outings (4114)",
+    "product_url": "https://www.amazon.in/dp/B0C1VKJ6HB",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.48169662058353424,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0F6VQJ41L",
+    "title": "Puma Women Bruten Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0F6VQJ41L",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.47667376399040223,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review variation; no strong evidence of coordinated fake reviews."
+    }
+  },
+  {
+    "asin": "B0C7W5K3BP",
+    "title": "ARETTO Leaps, Kids Everyday Wear Shoes, Size S1 | EU 20, 21, 22 | Age 1-2 Years | All Black",
+    "product_url": "https://www.amazon.in/dp/B0C7W5K3BP",
+    "trust_score": 84,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.2,
+      "visual_score": 0.4781243905425072,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap and positive sentiment consistency across multiple reviews."
+    }
+  },
+  {
+    "asin": "B0C7J323TY",
+    "title": "Puma Unisex-Adult Slipstream Lo Retro Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0C7J323TY",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.47387295961380005,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0DC3VPG5Q",
+    "title": "LE GREEM Comfortable|Ultra Light Weight|Breathable|Casuals Sneakers for Men 1715",
+    "product_url": "https://www.amazon.in/dp/B0DC3VPG5Q",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.48129386603832247,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0CX2G99LF",
+    "title": "DOCTOR EXTRA SOFT Memory Foam Mens Running Shoe with EVA Sole | Sports,Gym,Training,Walking,Jogging,Casual,School | Lightweight & Comfortable| Sneakers Lace-Up Athletics Loafer Gent's/Boy's D-2003",
+    "product_url": "https://www.amazon.in/dp/B0CX2G99LF",
+    "trust_score": 84,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.2,
+      "visual_score": 0.48007723689079285,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant linguistic variation across reviews."
+    }
+  },
+  {
+    "asin": "B0C9XRN5HQ",
+    "title": "Puma Men Slipstream Lo Retro Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0C9XRN5HQ",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.4708772659301758,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0BQBX36R8",
+    "title": "Puma Unisex Kid Twitch Runner Twist AC PS Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0BQBX36R8",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.4754747107625008,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0CT8DQNDV",
+    "title": "Puma Unisex Adult CA Pro AC Milan Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0CT8DQNDV",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4798070266842842,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0CRSRJ99P",
+    "title": "Neeman's Grip Fit Slip Ons for Men | Casual Shoes for Men | Lightweight & Comfortable | Trendy Stylish EVA Sole Shoes | Flexible, Breathable Walking Shoes for Men",
+    "product_url": "https://www.amazon.in/dp/B0CRSRJ99P",
+    "trust_score": 84,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.2,
+      "visual_score": 0.47174654603004457,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Mostly positive, diverse reviews; no obvious templating."
+    }
+  },
+  {
+    "asin": "B0BWTSNWWL",
+    "title": "Red Chief Tan Leather Sneakers for Men",
+    "product_url": "https://www.amazon.in/dp/B0BWTSNWWL",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.4721523940563202,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B07BHZWR7B",
+    "title": "Bata Mens Brad E Black Sneaker - 7 UK (8546042)",
+    "product_url": "https://www.amazon.in/dp/B07BHZWR7B",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47580405622720723,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Repetitive positive reviews with one strongly negative review."
+    }
+  },
+  {
+    "asin": "B0BG99XBHJ",
+    "title": "Bacca Bucci Unisex Pull On Walking Shoes",
+    "product_url": "https://www.amazon.in/dp/B0BG99XBHJ",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4725112229585648,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Conflicting reviews; some highly positive, others extremely negative."
+    }
+  },
+  {
+    "asin": "B0D94474N8",
+    "title": "Neeman's The White Pop Sneakers for Men | Comfortable & Flexible EVA Sole",
+    "product_url": "https://www.amazon.in/dp/B0D94474N8",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47653326690196995,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and templating."
+    }
+  },
+  {
+    "asin": "B0B8T694F1",
+    "title": "U.S. POLO ASSN. Men Lace Up Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0B8T694F1",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4714848518371582,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B01KTPNJYY",
+    "title": "Liberty Boys School Uniform Shoe",
+    "product_url": "https://www.amazon.in/dp/B01KTPNJYY",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.470650190114975,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review inconsistencies and some templated language."
+    }
+  },
+  {
+    "asin": "B0DCP3PRHM",
+    "title": "Zaydn Xander Sneaker for Men | Soft Cushioned Insole & Lightweight | Stylish Lace-Up Shoes with Casual Outfits | Trendy Sneakers | Shoes for Man | Low Top Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B0DCP3PRHM",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.4786169022321701,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0B7JTP62Z",
+    "title": "FAUSTO Men's Back Open Stylish Slip On Shoes",
+    "product_url": "https://www.amazon.in/dp/B0B7JTP62Z",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4711786270141602,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review inconsistencies; some positive, some extremely negative."
+    }
+  },
+  {
+    "asin": "B0987QBHZQ",
+    "title": "BATA Men Mesh Shoes",
+    "product_url": "https://www.amazon.in/dp/B0987QBHZQ",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.47407121658325196,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Mixed reviews, but no strong evidence of coordinated fake reviews."
+    }
+  },
+  {
+    "asin": "B0CT8QBPHH",
+    "title": "Puma Unisex Adult 180 Corduroy Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0CT8QBPHH",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.47243014276027684,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Some repetitive phrasing, but mostly positive and diverse reviews."
+    }
+  },
+  {
+    "asin": "B0B9BYJ3CX",
+    "title": "Puma Unisex Adult RX 737 OG Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0B9BYJ3CX",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4760007739067078,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0C656P3MS",
+    "title": "Legwork Capri Casual Leather Sneaker for Men & Boys",
+    "product_url": "https://www.amazon.in/dp/B0C656P3MS",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.47162131369113924,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0DGCGMNJ2",
+    "title": "Centrino Casual Shoe for Men | Cushioned Insole | Stylish Shoe |Sporty Lace-Up Design| Sneakers for Boys & Men (6830)",
+    "product_url": "https://www.amazon.in/dp/B0DGCGMNJ2",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.477230216562748,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review inconsistencies and some suspiciously generic positive feedback."
+    }
+  },
+  {
+    "asin": "B0F8W5HYCG",
+    "title": "LOUIS STITCH All Day Wear Lace-Ups for Men | Comfortable Lace-Ups | LSP-SNK-AVI-Lace-Ups",
+    "product_url": "https://www.amazon.in/dp/B0F8W5HYCG",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47687732577323916,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and templating."
+    }
+  },
+  {
+    "asin": "B0DPQT1TZ7",
+    "title": "ATHCO Mens Zordan Super Comfortable Insole Shoes|Running|Walking|Training|Gym|Jogging|Sneaker|Athletic|Laceup|Flexible|Lightweight|Dailyuse|Sports|Casual|ExtraSoft|Fitness|Gents Boys",
+    "product_url": "https://www.amazon.in/dp/B0DPQT1TZ7",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47647959738969803,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap across reviews suggests potential manipulation."
+    }
+  },
+  {
+    "asin": "B0DFWTDVNX",
+    "title": "ATHCO Mens Vibe Memory Foam Comfort Sneaker Shoes|Gym|Jogging|Sneaker|Athletic|Laceup|Casual|ExtraSoft",
+    "product_url": "https://www.amazon.in/dp/B0DFWTDVNX",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4690637707710266,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant phrase overlap across reviews."
+    }
+  },
+  {
+    "asin": "B0DG5DJVKC",
+    "title": "Symbol Premium Mens Smart Casual Leather Sneakers",
+    "product_url": "https://www.amazon.in/dp/B0DG5DJVKC",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4713890254497528,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap across reviews."
+    }
+  },
+  {
+    "asin": "B0CMD8YF5R",
+    "title": "Bacca Bucci Men Velcro Athletic Shoes",
+    "product_url": "https://www.amazon.in/dp/B0CMD8YF5R",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47450088858604433,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Repetitive positive phrasing; potential template use."
+    }
+  },
+  {
+    "asin": "B0DWXYCGWD",
+    "title": "FAUSTO Men Suede Leather Breathable Broad Feet Classic Casual Shoes | All Day Comfortable Walking Sneakers | Memory Cushioned Insole with Anti Skid TPR Sole",
+    "product_url": "https://www.amazon.in/dp/B0DWXYCGWD",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.4772577375173569,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0D799T6K4",
+    "title": "San Frissco Men's Sneakers Solid Casual Lace Up Shoes/Stylish Lightweight Soft Cushioned Insole with TPR Sole/Trending and All Day Comfortable Running, Walking, Outdoor",
+    "product_url": "https://www.amazon.in/dp/B0D799T6K4",
+    "trust_score": 60,
+    "verdict": false,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.4793366074562073,
+      "brand_mismatch": false,
+      "rule_score": 0.9
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0CKFDVKSH",
+    "title": "LOUIS STITCH Play Men's Brazillian Blue Fashion Sneaker Comfortable for Men All Day Wear (SNK-CSBU)",
+    "product_url": "https://www.amazon.in/dp/B0CKFDVKSH",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.47424899935722353,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0DG5B65T8",
+    "title": "Symbol Premium Mens Smart Casual Leather Sneakers",
+    "product_url": "https://www.amazon.in/dp/B0DG5B65T8",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4713890254497528,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap across reviews."
+    }
+  },
+  {
+    "asin": "B09W36565T",
+    "title": "Bacca Bucci Men Lace Up Sneaker Shoes",
+    "product_url": "https://www.amazon.in/dp/B09W36565T",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.47892902642488483,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap and templated phrasing across multiple reviews."
+    }
+  },
+  {
+    "asin": "B0CWR1CPNH",
+    "title": "Puma Men Court Shatter Low Sneaker",
+    "product_url": "https://www.amazon.in/dp/B0CWR1CPNH",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4755029618740082,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies."
+    }
+  },
+  {
+    "asin": "B0F9FBVG17",
+    "title": "LOUIS STITCH Men's Brazilian Blue Sneakers | Casual Shoes with Cushion Sole & Breathable Inner | Stylish & Comfortable Everyday Footwear for Men | Lace-Up Design for All-Day Wear - SNK_PD,Size- 10 UK",
+    "product_url": "https://www.amazon.in/dp/B0F9FBVG17",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4770600199699402,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0DFTNXGLQ",
+    "title": "Peelu Men's Comfortable Sneakers| Breathable and Durable for All-Day Wear",
+    "product_url": "https://www.amazon.in/dp/B0DFTNTCG8",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.47563686221838,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0F9FB5CQ8",
+    "title": "LOUIS STITCH Men's Egyptian Black Sneakers | Casual Shoes with Cushion Sole & Breathable Inner | Stylish & Comfortable Everyday Footwear for Men | Lace-Up Design for All-Day Wear - SNK_PD,Size- 9 UK",
+    "product_url": "https://www.amazon.in/dp/B0F9FB5CQ8",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4797504246234894,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0F9FD2KJY",
+    "title": "LOUIS STITCH Men's Ferrari Red Sneakers | Casual Shoes with Cushion Sole & Breathable Inner | Stylish & Comfortable Everyday Footwear for Men | Lace-Up Design for All-Day Wear - SNK_PD,Size- 9 UK",
+    "product_url": "https://www.amazon.in/dp/B0F9FD2KJY",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.47462345957756047,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0C9V643L9",
+    "title": "FTZ All Sports Canvas Walking, Gyming Shoes Sneakers for Women",
+    "product_url": "https://www.amazon.in/dp/B0C9V643L9",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.47584827393293383,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0DGCSQ7KT",
+    "title": "Centrino Casual Shoe for Men | Cushioned Insole | Stylish Shoe |Sporty Lace-Up Design| Sneakers for Boys & Men (6832)",
+    "product_url": "https://www.amazon.in/dp/B0DGCSQ7KT",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4809461772441864,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review inconsistencies; some positive, some extremely negative."
+    }
+  },
+  {
+    "asin": "B0DNQW4CWV",
+    "title": "LOUIS STITCH White Sneakers for Men | Lightweight Slip-On Walking Shoes for Men | Comfortable Casual Wear | Flexible, Breathable, Stylish & Durable All-Day Wear (SNK-CUSOWH)",
+    "product_url": "https://www.amazon.in/dp/B0DNQW4CWV",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4775221079587937,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0F8W6Q92Z",
+    "title": "LOUIS STITCH All Day Wear Lace-Ups for Men | Comfortable Lace-Ups | LSP-SNK-AVI-Lace-Ups",
+    "product_url": "https://www.amazon.in/dp/B0F8W6Q92Z",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4777459964156151,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and templating."
+    }
+  },
+  {
+    "asin": "B0DGCN9NM6",
+    "title": "Centrino Casual Shoe for Men | Cushioned Insole | Stylish Shoe |Sporty Lace-Up Design| Sneakers for Boys & Men (6831)",
+    "product_url": "https://www.amazon.in/dp/B0DGCN9NM6",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.473510080575943,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review text repetition and inconsistencies in sentiment."
+    }
+  },
+  {
+    "asin": "B0DZ31QGH2",
+    "title": "Centrino Sneaker for Men | Comfort & Style with Soft Cushioned Insole | Trendy Lace-Up Design for Casual Outfits (9201)",
+    "product_url": "https://www.amazon.in/dp/B0DZ31QGH2",
+    "trust_score": 70,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.9,
+      "visual_score": 0.47246420085430146,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant text overlap across multiple reviews."
+    }
+  },
+  {
+    "asin": "B0CSW6DW99",
+    "title": "OVERDRIVE Leather Casual Lace up High top Sneakers for Men with TPR Sole (W2115546)",
+    "product_url": "https://www.amazon.in/dp/B0CSW6DW99",
+    "trust_score": 72,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.8,
+      "visual_score": 0.4777752056717873,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "no reviews"
+    }
+  },
+  {
+    "asin": "B0DDY4QWLN",
+    "title": "FAUSTO Men's Colorblocked Mid Top Breathable Lace-Up Sneaker Shoes|Memory Cushion Casual Shoes|Chunky Streetwear Fashion Sneakers",
+    "product_url": "https://www.amazon.in/dp/B0DDY4QWLN",
+    "trust_score": 80,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.4,
+      "visual_score": 0.4767923787236214,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant review variation; no strong linguistic patterns."
+    }
+  },
+  {
+    "asin": "B0DFWS5FXG",
+    "title": "ATHCO Mens Vibe Memory Foam Comfort Sneaker Shoes|Gym|Jogging|Sneaker|Athletic|Laceup|Casual|ExtraSoft",
+    "product_url": "https://www.amazon.in/dp/B0DFWS5FXG",
+    "trust_score": 74,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.7,
+      "visual_score": 0.4771408721804619,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "Significant phrase overlap across reviews."
+    }
+  },
+  {
+    "asin": "B0DWXS2PZN",
+    "title": "ASIAN Men CHICAGO-02N Stylish Casual Mid Top Sneakers and Trendy Shoes with Laces for Men & Boys | Perfect for Wearing to Outings, and Comfortable All-Day Use, Stylish and Durable-CHICAGO-02N$",
+    "product_url": "https://www.amazon.in/dp/B0DWXS2PZN",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.47110483348369603,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  },
+  {
+    "asin": "B0DWSZNF99",
+    "title": "ASIAN Men CHICAGO-01 Stylish Casual Mid Top Sneakers and Trendy Shoes with Laces for Men & Boys | Perfect for Wearing to Outings, and Comfortable All-Day Use, Stylish and Durable-CHICAGO-01$P",
+    "product_url": "https://www.amazon.in/dp/B0DWSZNF99",
+    "trust_score": 76,
+    "verdict": true,
+    "breakdown": {
+      "text_score": 0.6,
+      "visual_score": 0.4708033859729767,
+      "brand_mismatch": false,
+      "rule_score": 0.1
+    },
+    "explanation": {
+      "text": "few reviews"
+    }
+  }
+]
