@@ -1,17 +1,30 @@
-# TrustGuard +
+# TrustGuard+
 
-<div align="center">
-  <img alt="TrustGuard+ logo" src="https://github.com/your-org/trustguard/assets/logo.svg" height="95"/>
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Mharish0341/trustguard/main/assets/logo.png" 
+    alt="TrustGuard+ logo" 
+    height="95"
+  />
   <br/>
-  <b>Instant counterfeit & trust-fraud detection for e-commerce listings</b>
-  <br/><br/>
-</div>
+  <strong>Instant counterfeit &amp; trust-fraud detection for e-commerce listings</strong>
+</p>
 
 ---
 
 ## ✨ Overview
-**TrustGuard +** is a drop-in Python toolkit that audits any catalogue export (CSV / API feed) and assigns a transparent **_Trust Score (0–100)_** for every product.  
-It inspects **reviews, images, ratings, returns & brand logos** using lightweight open-source models that run locally or behind your own firewall. Moderators get a JSON report and a Streamlit dashboard – no cloud vendor lock-in.
+
+I built **TrustGuard +** to solve a simple problem: huge marketplaces make it hard to spot fake items and sketchy reviews.  
+The tool takes any product export (CSV or an API dump), checks every listing, and hands back one clear number — a **Trust Score (0-100)**.
+
+here’s what happens:
+
+1. **Reads your data** – point it at the CSV you already have.  
+2. **Looks at everything** – reviews, photos, star ratings, return counts, even the logo printed on the product.  
+3. **Runs quick AI checks on your own machine** – nothing leaves your server.  
+4. **Writes a tidy JSON report** – plus a Streamlit page so moderators can skim results.
+
+One run and you know which products look clean and which need a closer look.
 
 | Module | Models under the hood | Flags                         |
 |--------|----------------------|-------------------------------|
@@ -23,22 +36,6 @@ It inspects **reviews, images, ratings, returns & brand logos** using lightweigh
 Everything is fused through a weighted aggregator and explained in plain English.
 
 ---
-
-```bash
-# 1.  Clone & install
-git clone https://github.com/your-org/trustguard.git
-cd trustguard
-python -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt   # CPU-only by default
-
-# 2.  Run a batch audit
-python scripts/batch_run.py \
-      --csv data/amazon_sneakers_all2.csv \
-      --out reports.json
-
-# 3.  Browse results
-streamlit run dashboard/app.py
-
 
 ```mermaid
 flowchart TD
